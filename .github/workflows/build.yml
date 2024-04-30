@@ -30,9 +30,9 @@ jobs:
         cd ./scel2txt || exit 1
         python ./scel2txt.py
 
-    - name: Git push assets to "release" branch
+    - name: Git push
       run: |
-        cd ./out || exit 1
+        cd ./scel2txt/out || exit 1
         git init
         git config --local user.name "github-actions[bot]"
         git config --local user.email "github-actions[bot]@users.noreply.github.com"
