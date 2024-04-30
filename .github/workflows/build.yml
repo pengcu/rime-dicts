@@ -1,0 +1,37 @@
+name: Build Dicts
+on: 
+  workflow_dispatch: 
+  schedule: 
+    - cron: "0 0 * * 0"
+  push: 
+    branches: 
+      - master
+jobs: 
+  build: 
+    runs-on: ubuntu-latest
+    steps: 
+    - name: Checkout codebase
+      uses: actions/checkout@v4
+      
+    - name: Checkout lewangdev/scel2txt
+      uses: actions/checkout@v4
+      with:
+        repository: lewangdev/scel2txt
+        path: scel2txt
+  
+    - name: Build Sougou Hot Dicts
+      run: |
+        curl "https://pinyin.sogou.com/d/dict/download_cell.php?id=4&name=hot&f=detail" -H "Referer: http://pinyin.sogou.com/" -o ./scel2txt/scel/hot.scel
+        python3 ./scel2txt/scel2txt.py
+        mv ./scel2txt/out/luna_pinyin.sogou.dict.yaml ./scel2txt/out/sogou_hot.dict.yaml
+
+    - name: Git push assets to "release" branch
+      run: |
+        cd ./scel2txt/out || exit 1
+        git init
+        git config --local user.name "github-actions[bot]"
+        git config --local user.email "github-actions[bot]@users.noreply.github.com"
+        git add ./sogou_hot.dict.yaml
+        git commit -m "update"
+        git push -f
+        
