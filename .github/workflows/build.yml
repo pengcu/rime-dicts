@@ -27,11 +27,12 @@ jobs:
     - name: Build Sougou Hot Dicts
       run: |
         curl "https://pinyin.sogou.com/d/dict/download_cell.php?id=4&name=hot&f=detail" -H "Referer: http://pinyin.sogou.com/" -o ./scel2txt/scel/hot.scel
-        python ./scel2txt/scel2txt.py
+        cd ./scel2txt || exit 1
+        python ./scel2txt.py
 
     - name: Git push assets to "release" branch
       run: |
-        cd ./scel2txt/out || exit 1
+        cd ./out || exit 1
         git init
         git config --local user.name "github-actions[bot]"
         git config --local user.email "github-actions[bot]@users.noreply.github.com"
