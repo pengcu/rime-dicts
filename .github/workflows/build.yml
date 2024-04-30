@@ -18,11 +18,16 @@ jobs:
       with:
         repository: lewangdev/scel2txt
         path: scel2txt
+        
+    - name: SetPython
+      uses: actions/setup-python@v5
+      with:
+        python-version: '3.10' 
   
     - name: Build Sougou Hot Dicts
       run: |
         curl "https://pinyin.sogou.com/d/dict/download_cell.php?id=4&name=hot&f=detail" -H "Referer: http://pinyin.sogou.com/" -o ./scel2txt/scel/hot.scel
-        python3 ./scel2txt/scel2txt.py
+        python ./scel2txt/scel2txt.py
 
     - name: Git push assets to "release" branch
       run: |
