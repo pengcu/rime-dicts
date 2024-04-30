@@ -29,6 +29,7 @@ jobs:
         curl "https://pinyin.sogou.com/d/dict/download_cell.php?id=4&name=hot&f=detail" -H "Referer: http://pinyin.sogou.com/" -o ./scel2txt/scel/hot.scel
         cd ./scel2txt || exit 1
         python ./scel2txt.py
+        mv ./out/luna_pinyin.sogou.dict.yaml ./out/sogou_hot.dict.yaml
 
     - name: Git push
       run: |
