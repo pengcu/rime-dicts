@@ -31,11 +31,18 @@ jobs:
         python ./scel2txt.py
         mv ./out/luna_pinyin.sogou.dict.yaml ../sogou_hot.dict.yaml
 
+    - name: Get Rime-ice dicts
+      run: |
+        curl https://raw.githubusercontent.com/iDvel/rime-ice/main/cn_dicts/8105.dict.yaml -o 8105.dict.yaml
+        curl https://raw.githubusercontent.com/iDvel/rime-ice/main/cn_dicts/base.dict.yaml -o base.dict.yaml
+
     - name: Git push
       run: |
         git config --local user.name "github-actions[bot]"
         git config --local user.email "github-actions[bot]@users.noreply.github.com"
         git add ./sogou_hot.dict.yaml
-        git commit -m "update"
+        git add ./8105.dict.yaml
+        git add ./base.dict.yaml
+        git commit -am "update"
         git push -f
         
