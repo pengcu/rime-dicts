@@ -29,8 +29,9 @@ jobs:
         curl "https://pinyin.sogou.com/d/dict/download_cell.php?id=4&name=hot&f=detail" -H "Referer: http://pinyin.sogou.com/" -o ./scel2txt/scel/hot.scel
         cd ./scel2txt || exit 1
         python ./scel2txt.py
-        cat ./out/luna_pinyin.sogou.dict.yaml ../sogou_hot.dict.yaml | sort | uniq > combine.yaml
-        mv combine.yaml ../sogou_hot.dict.yaml
+        # 合并？
+        # cat ./out/luna_pinyin.sogou.dict.yaml ../sogou_hot.dict.yaml | sort | uniq > combine.yaml
+        mv ./out/luna_pinyin.sogou.dict.yaml ../sogou_hot.dict.yaml
 
     - name: Get Rime-ice dicts
       run: |
