@@ -31,6 +31,7 @@ jobs:
         python ./scel2txt.py
         # 合并？
         # cat ./out/luna_pinyin.sogou.dict.yaml ../sogou_hot.dict.yaml | sort | uniq > combine.yaml
+        sed -i '20,$ s/$/\t999999/' ./out/luna_pinyin.sogou.dict.yaml
         mv ./out/luna_pinyin.sogou.dict.yaml ../sogou_hot.dict.yaml
 
     - name: Get Rime-ice dicts
