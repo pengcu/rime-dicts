@@ -159,6 +159,7 @@ use_preset_vocabulary: true
 傲娇美	ao jiao mei	999999
 熬老汤	ao lao tang	999999
 熬老头	ao lao tou	999999
+奥利维拉	ao li wei la	999999
 澳门场	ao men chang	999999
 澳门葡记月饼	ao men pu ji yue bing	999999
 澳门特区	ao men te qu	999999
@@ -257,6 +258,7 @@ use_preset_vocabulary: true
 巴太	ba tai	999999
 巴特福来	ba te fu lai	999999
 霸王茶姬	ba wang cha ji	999999
+霸王茶姬活动	ba wang cha ji huo dong	999999
 霸王茶姬口令	ba wang cha ji kou ling	999999
 霸王拧	ba wang ning	999999
 拔网线了	ba wang xian le	999999
@@ -405,6 +407,7 @@ use_preset_vocabulary: true
 棒打鲜橙	bang da xian cheng	999999
 绑关系	bang guan xi	999999
 帮会联赛	bang hui lian sai	999999
+绑架勒索	bang jia le suo	999999
 绑架游戏	bang jia you xi	999999
 帮开	bang kai	999999
 帮我助个力	bang wo zhu ge li	999999
@@ -1292,6 +1295,7 @@ use_preset_vocabulary: true
 冲战神	chong zhan shen	999999
 冲阵	chong zhen	999999
 充值特惠	chong zhi te hui	999999
+重铸中路荣光	chong zhu zhong lu rong guang	999999
 冲撞	chong zhuang	999999
 重走西游	chong zou xi you	999999
 重组器	chong zu qi	999999
@@ -1764,6 +1768,8 @@ use_preset_vocabulary: true
 道一声晚安	dao yi sheng wan an	999999
 倒余额	dao yu e	999999
 倒宇宙	dao yu zhou	999999
+道崽鲁班神炮	dao zai lu ban shen pao	999999
+刀战服	dao zhan fu	999999
 导照片	dao zhao pian	999999
 刀宗	dao zong	999999
 得吃饺子	de chi jiao zi	999999
@@ -1808,6 +1814,7 @@ use_preset_vocabulary: true
 登陆少年	deng lu shao nian	999999
 登陆少年出图	deng lu shao nian chu tu	999999
 登陆少年发博	deng lu shao nian fa bo	999999
+登陆少年古装	deng lu shao nian gu zhuang	999999
 登陆少年开场	deng lu shao nian kai chang	999999
 登陆少年团	deng lu shao nian tuan	999999
 登陆少年选项	deng lu shao nian xuan xiang	999999
@@ -2337,6 +2344,7 @@ use_preset_vocabulary: true
 范丞丞王安宇	fan cheng cheng wang an yu	999999
 范丞丞演技	fan cheng cheng yan ji	999999
 饭搭子	fan da zi	999999
+范德尔	fan de er	999999
 贩毒集团	fan du ji tuan	999999
 反二	fan er	999999
 反方向的钟	fan fang xiang de zhong	999999
@@ -2872,6 +2880,7 @@ use_preset_vocabulary: true
 拱出去	gong chu qu	999999
 共创之夜	gong chuang zhi ye	999999
 共创职业	gong chuang zhi ye	999999
+共促	gong cu	999999
 贡达	gong da	999999
 功德流	gong de liu	999999
 共赴进博之约	gong fu jin bo zhi yue	999999
@@ -3219,6 +3228,7 @@ use_preset_vocabulary: true
 果型	guo xing	999999
 国乙	guo yi	999999
 国医少女	guo yi shao nv	999999
+锅姨实至名归	guo yi shi zhi ming gui	999999
 郭有才	guo you cai	999999
 国羽大家庭	guo yu da jia ting	999999
 国羽打乒乓球	guo yu da ping pang qiu	999999
@@ -3338,6 +3348,7 @@ use_preset_vocabulary: true
 韩安冉学名媛	han an ran xue ming yuan	999999
 汉堡节	han bao jie	999999
 撼地者	han di zhe	999999
+韩妃	han fei	999999
 汉归	han gui	999999
 韩国不吃月饼	han guo bu chi yue bing	999999
 韩国朝鲜	han guo chao xian	999999
@@ -3404,6 +3415,7 @@ use_preset_vocabulary: true
 豪咪	hao mi	999999
 好逆天	hao ni tian	999999
 好牛的一球	hao niu de yi qiu	999999
+好朋友一直在一起	hao peng you yi zhi zai yi qi	999999
 好品	hao pin	999999
 好品山东	hao pin shan dong	999999
 好奇郭碧婷	hao qi guo bi ting	999999
@@ -3872,6 +3884,7 @@ use_preset_vocabulary: true
 黄磊做饭	huang lei zuo fan	999999
 黄龄成伴唱了	huang ling cheng ban chang le	999999
 黄玲宋莹	huang ling song ying	999999
+黄玲停薪留职	huang ling ting xin liu zhi	999999
 黄眉	huang mei	999999
 黄眉大王	huang mei da wang	999999
 黄明昊全开麦	huang ming hao quan kai mai	999999
@@ -3880,6 +3893,7 @@ use_preset_vocabulary: true
 晃起来了	huang qi lai le	999999
 黄绮珊太牛了	huang qi shan tai niu le	999999
 黄拳	huang quan	999999
+黄荣奇受伤	huang rong qi shou shang	999999
 黄圣依怼杨子	huang sheng yi dui yang zi	999999
 黄圣依修养	huang sheng yi xiu yang	999999
 黄圣依杨子	huang sheng yi yang zi	999999
@@ -3897,6 +3911,7 @@ use_preset_vocabulary: true
 黄晓明特效	huang xiao ming te xiao	999999
 黄旭熙将回归	huang xu xi jiang hui gui	999999
 黄宣	huang xuan	999999
+黄铉辰大屏	huang xuan chen da ping	999999
 黄轩官宣	huang xuan guan xuan	999999
 黄轩女朋友	huang xuan nv peng you	999999
 黄宣新歌首唱	huang xuan xin ge shou chang	999999
@@ -4311,6 +4326,7 @@ use_preset_vocabulary: true
 降薪就业	jiang xin jiu ye	999999
 蒋欣演技	jiang xin yan ji	999999
 蒋欣在哪里	jiang xin zai na li	999999
+江寻千赶尸	jiang xun qian gan shi	999999
 姜妍拍照	jiang yan pai zhao	999999
 蒋漾大盗	jiang yang da dao	999999
 姜迎紫	jiang ying zi	999999
@@ -4457,12 +4473,15 @@ use_preset_vocabulary: true
 进化皮	jin hua pi	999999
 进击的学霸	jin ji de xue ba	999999
 金鸡奖海报	jin ji jiang hai bao	999999
+金鸡奖含金量	jin ji jiang han jin liang	999999
 金鸡奖节目单	jin ji jiang jie mu dan	999999
 金鸡奖开幕式	jin ji jiang kai mu shi	999999
 金鸡奖内场	jin ji jiang nei chang	999999
 金鸡奖预测	jin ji jiang yu ce	999999
 金鸡奖直播	jin ji jiang zhi bo	999999
+金鸡历届影后	jin ji li jie ying hou	999999
 晋级四强	jin ji si qiang	999999
+金价高位回落	jin jia gao wei hui luo	999999
 金价上涨	jin jia shang zhang	999999
 金价跳水了	jin jia tiao shui le	999999
 金价又发疯	jin jia you fa feng	999999
@@ -4954,6 +4973,7 @@ use_preset_vocabulary: true
 可可农场	ke ke nong chang	999999
 课课贴	ke ke tie	999999
 克拉岛	ke la dao	999999
+克拉妹	ke la mei	999999
 克拉盘	ke la pan	999999
 柯莱	ke lai	999999
 克莱因蓝	ke lai yin lan	999999
@@ -5490,6 +5510,7 @@ use_preset_vocabulary: true
 恋与深空偷跑	lian yu shen kong tou pao	999999
 恋与深空新谷	lian yu shen kong xin gu	999999
 恋与天津游	lian yu tian jin you	999999
+恋与王者	lian yu wang zhe	999999
 恋与戏梦	lian yu xi meng	999999
 链在一起	lian zai yi qi	999999
 连赞	lian zan	999999
@@ -5501,6 +5522,8 @@ use_preset_vocabulary: true
 量产版	liang chan ban	999999
 量产车	liang chan che	999999
 量大管饱	liang da guan bao	999999
+两代妲己	liang dai da ji	999999
+梁代文	liang dai wen	999999
 亮哥大气	liang ge da qi	999999
 两个杜华	liang ge du hua	999999
 两个确立	liang ge que li	999999
@@ -5556,6 +5579,7 @@ use_preset_vocabulary: true
 林大厨爆改	lin da chu bao gai	999999
 林大厨被锁	lin da chu bei suo	999999
 林黛玉大战原神	lin dai yu da zhan yuan shen	999999
+林栋哲	lin dong zhe	999999
 林栋哲受难日	lin dong zhe shou nan ri	999999
 林栋哲庄筱婷	lin dong zhe zhuang xiao ting	999999
 林高远回国了	lin gao yuan hui guo le	999999
@@ -5588,6 +5612,7 @@ use_preset_vocabulary: true
 林依轮结婚	lin yi lun jie hun	999999
 林一上海活动	lin yi shang hai huo dong	999999
 林一沈月	lin yi shen yue	999999
+林一现偶	lin yi xian ou	999999
 临沂音乐节	lin yi yin yue jie	999999
 林有慧	lin you hui	999999
 林宥嘉唱成全	lin you jia chang cheng quan	999999
@@ -6108,6 +6133,7 @@ use_preset_vocabulary: true
 满定轨	man ding gui	999999
 曼谷联	man gu lian	999999
 漫画版莎头	man hua ban sha tou	999999
+漫画化	man hua hua	999999
 漫画跑	man hua pao	999999
 满环	man huan	999999
 慢脚	man jiao	999999
@@ -6430,6 +6456,7 @@ use_preset_vocabulary: true
 明天七夕节	ming tian qi xi jie	999999
 明天早八	ming tian zao ba	999999
 明天中元节	ming tian zhong yuan jie	999999
+明星生日汇	ming xing sheng ri hui	999999
 名媛培训班	ming yuan pei xun ban	999999
 明月苍茫开机	ming yue cang mang kai ji	999999
 命运方舟	ming yun fang zhou	999999
@@ -6640,6 +6667,7 @@ use_preset_vocabulary: true
 南极正在变绿	nan ji zheng zai bian lv	999999
 男解说	nan jie shuo	999999
 南京冰雹	nan jing bing bao	999999
+南京马拉松	nan jing ma la song	999999
 南京野猪	nan jing ye zhu	999999
 南九	nan jiu	999999
 男篮裁判	nan lan cai pan	999999
@@ -6662,6 +6690,7 @@ use_preset_vocabulary: true
 南天门计划	nan tian men ji hua	999999
 男团决赛	nan tuan jue sai	999999
 难忘金秋	nan wang jin qiu	999999
+男性塑造	nan xing su zao	999999
 男选手	nan xuan shou	999999
 南阳十二颠	nan yang shi er dian	999999
 南阳诸葛庐	nan yang zhu ge lu	999999
@@ -6691,6 +6720,7 @@ use_preset_vocabulary: true
 内塔尼亚胡	nei ta ni ya hu	999999
 内娱带教老师	nei yu dai jiao lao shi	999999
 内娱第一留子	nei yu di yi liu zi	999999
+内娱河道英	nei yu he dao ying	999999
 内娱花果山	nei yu hua guo shan	999999
 内娱花蝴蝶	nei yu hua hu die	999999
 内娱李胜利	nei yu li sheng li	999999
@@ -6789,6 +6819,7 @@ use_preset_vocabulary: true
 年包	nian bao	999999
 年度爽游	nian du shuang you	999999
 年度游戏	nian du you xi	999999
+年度总决赛	nian du zong jue sai	999999
 年度最亮彗星	nian du zui liang hui xing	999999
 年番	nian fan	999999
 年锦	nian jin	999999
@@ -6949,6 +6980,7 @@ use_preset_vocabulary: true
 排位珍宝	pai wei zhen bao	999999
 排污水	pai wu shui	999999
 拍纸本	pai zhi ben	999999
+判负	pan fu	999999
 潘功胜	pan gong sheng	999999
 盘古库里皮肤	pan gu ku li pi fu	999999
 攀果地	pan guo di	999999
@@ -7017,6 +7049,7 @@ use_preset_vocabulary: true
 鹏飞妈妈	peng fei ma ma	999999
 彭高翁青雅	peng gao weng qing ya	999999
 朋友费	peng you fei	999999
+彭昱畅演技	peng yu chang yan ji	999999
 鹏之背	peng zhi bei	999999
 碰撞后	peng zhuang hou	999999
 皮肤币	pi fu bi	999999
@@ -7147,6 +7180,7 @@ use_preset_vocabulary: true
 普安特	pu an te	999999
 朴彩英将回归	pu cai ying jiang hui gui	999999
 朴彩英流媒	pu cai ying liu mei	999999
+朴彩英试听会	pu cai ying shi ting hui	999999
 朴彩英直播	pu cai ying zhi bo	999999
 朴灿烈直播	pu can lie zhi bo	999999
 朴春瘦了好多	pu chun shou le hao duo	999999
@@ -7192,6 +7226,7 @@ use_preset_vocabulary: true
 齐喊	qi han	999999
 启航数字文明	qi hang shu zi wen ming	999999
 齐河一中	qi he yi zhong	999999
+沏壶高的	qi hu gao de	999999
 奇幻变奏	qi huan bian zou	999999
 奇迹行者	qi ji xing zhe	999999
 七级镇	qi ji zhen	999999
@@ -7452,6 +7487,7 @@ use_preset_vocabulary: true
 轻抖	qing dou	999999
 庆都山	qing dou shan	999999
 清肺液	qing fei ye	999999
+清风纪元	qing feng ji yuan	999999
 清风麒麟	qing feng qi lin	999999
 清风小奥	qing feng xiao ao	999999
 清风小蛇	qing feng xiao she	999999
@@ -7585,6 +7621,7 @@ use_preset_vocabulary: true
 全额分解	quan e fen jie	999999
 全国科普日	quan guo ke pu ri	999999
 全国生态日	quan guo sheng tai ri	999999
+全国月亮大赏	quan guo yue liang da shang	999999
 全红婵	quan hong chan	999999
 全红婵采访	quan hong chan cai fang	999999
 全红婵陈芋汐	quan hong chan chen yu xi	999999
@@ -7765,6 +7802,7 @@ use_preset_vocabulary: true
 认知体系	ren zhi ti xi	999999
 日本孤独死	ri ben gu du si	999999
 日本梅毒	ri ben mei du	999999
+日本偶遇罗恩	ri ben ou yu luo en	999999
 日本强震画面	ri ben qiang zhen hua mian	999999
 日本申诉	ri ben shen su	999999
 日本双打	ri ben shuang da	999999
@@ -7916,6 +7954,7 @@ use_preset_vocabulary: true
 三巨头会面	san ju tou hui mian	999999
 三凯机电	san kai ji dian	999999
 三块冰	san kuai bing	999999
+三里屯三姐妹	san li tun san jie mei	999999
 三连亚	san lian ya	999999
 三毛抢鸡蛋	san mao qiang ji dan	999999
 三毛子	san mao zi	999999
@@ -8020,6 +8059,7 @@ use_preset_vocabulary: true
 沙威玛传奇	sha wei ma chuan qi	999999
 沙威玛是什么	sha wei ma shi shen me	999999
 沙威玛怎么做	sha wei ma zen me zuo	999999
+沙溢回应瘦身	sha yi hui ying shou shen	999999
 沙溢肌肉	sha yi ji rou	999999
 沙一汀	sha yi ting	999999
 鲨鱼妹	sha yu mei	999999
@@ -8223,6 +8263,7 @@ use_preset_vocabulary: true
 神兽归笼	shen shou gui long	999999
 神树坪	shen shu ping	999999
 深塔	shen ta	999999
+沈腾没来	shen teng mei lai	999999
 沈腾向佐	shen teng xiang zuo	999999
 沈腾新片逆鳞	shen teng xin pian ni lin	999999
 沈腾有腹肌了	shen teng you fu ji le	999999
@@ -8275,6 +8316,7 @@ use_preset_vocabulary: true
 生咖	sheng ka	999999
 生理性分手	sheng li xing fen shou	999999
 省流	sheng liu	999999
+圣龙杯	sheng long bei	999999
 圣卢西亚	sheng lu xi ya	999999
 升明月	sheng ming yue	999999
 盛气	sheng qi	999999
@@ -8766,6 +8808,7 @@ use_preset_vocabulary: true
 死这么多人	si zhe me duo ren	999999
 四中心	si zhong xin	999999
 四抓	si zhua	999999
+死嘴快嚼啊	si zui kuai jiao a	999999
 死嘴你快哄啊	si zui ni kuai hong a	999999
 宋阿糜	song a mi	999999
 松弛感	song chi gan	999999
@@ -8853,6 +8896,7 @@ use_preset_vocabulary: true
 苏新皓橙发	su xin hao cheng fa	999999
 苏新皓清唱	su xin hao qing chang	999999
 苏新皓手写信	su xin hao shou xie xin	999999
+苏新皓簪花帽	su xin hao zan hua mao	999999
 苏新皓指脸	su xin hao zhi lian	999999
 苏新皓直拍	su xin hao zhi pai	999999
 苏醒道歉	su xing dao qian	999999
@@ -8964,7 +9008,9 @@ use_preset_vocabulary: true
 塔菲	ta fei	999999
 她叫杨妞花	ta jiao yang niu hua	999999
 他落泪一吻	ta luo lei yi wen	999999
+他没跑调	ta mei pao diao	999999
 他们队	ta men dui	999999
+她跑掉了	ta pao diao le	999999
 踏平坎坷	ta ping kan ke	999999
 踏破贺兰山缺	ta po he lan shan que	999999
 他上台	ta shang tai	999999
@@ -8972,6 +9018,8 @@ use_preset_vocabulary: true
 塔斯汀	ta si ting	999999
 塔斯汀汉堡	ta si ting han bao	999999
 塔塔开	ta ta kai	999999
+塔图姆绝杀	ta tu mu jue sha	999999
+她捂着眼睛笑	ta wu zhe yan jing xiao	999999
 塔希尔	ta xi er	999999
 他训练很努力	ta xun lian hen nu li	999999
 他又缺了吧	ta you que le ba	999999
@@ -9576,6 +9624,7 @@ use_preset_vocabulary: true
 玩原神	wan yuan shen	999999
 完整体	wan zheng ti	999999
 王安全	wang an quan	999999
+王安宇上桌	wang an yu shang zhuo	999999
 网报公告	wang bao gong gao	999999
 王粲	wang can	999999
 王昶	wang chang	999999
@@ -9694,6 +9743,7 @@ use_preset_vocabulary: true
 望明月	wang ming yue	999999
 王暖暖	wang nuan nuan	999999
 王牌竞速	wang pai jing su	999999
+亡妻回忆录	wang qi hui yi lu	999999
 王齐麟	wang qi lin	999999
 王起灵	wang qi ling	999999
 网前	wang qian	999999
@@ -9835,6 +9885,7 @@ use_preset_vocabulary: true
 蔚来报警	wei lai bao jing	999999
 未来见	wei lai jian	999999
 未来契约	wei lai qi yue	999999
+未来守护者	wei lai shou hu zhe	999999
 蔚蓝档案	wei lan dang an	999999
 威蓝科技	wei lan ke ji	999999
 为了热爱	wei le re ai	999999
@@ -10231,6 +10282,7 @@ use_preset_vocabulary: true
 无畏路演取消	wu wei lu yan qu xiao	999999
 无畏契约	wu wei qi yue	999999
 无畏契约夜市	wu wei qi yue ye shi	999999
+无畏清融合影	wu wei qing rong he ying	999999
 无畏在线撸猫	wu wei zai xian lu mao	999999
 无畏者	wu wei zhe	999999
 无畏指挥	wu wei zhi hui	999999
@@ -10240,6 +10292,7 @@ use_preset_vocabulary: true
 五夏	wu xia	999999
 武侠城	wu xia cheng	999999
 武侠风	wu xia feng	999999
+武侠热	wu xia re	999999
 无限流式吵架	wu xian liu shi chao jia	999999
 无限暖暖	wu xian nuan nuan	999999
 无限缩减	wu xian suo jian	999999
@@ -10264,6 +10317,7 @@ use_preset_vocabulary: true
 乌野	wu ye	999999
 武艺的画	wu yi de hua	999999
 钨铱电子	wu yi dian zi	999999
+武艺李行亮	wu yi li hang liang	999999
 武艺上错车	wu yi shang cuo che	999999
 无意识写作	wu yi shi xie zuo	999999
 无意刷到	wu yi shua dao	999999
@@ -10369,6 +10423,7 @@ use_preset_vocabulary: true
 下杠	xia gang	999999
 下个季节	xia ge ji jie	999999
 下个周期	xia ge zhou qi	999999
+峡谷里有个泰森	xia gu li you ge tai sen	999999
 夏禾亭阁晚来秋	xia he ting ge wan lai qiu	999999
 吓坏人	xia huai ren	999999
 狭间	xia jian	999999
@@ -10620,6 +10675,7 @@ use_preset_vocabulary: true
 小胖加油	xiao pang jia you	999999
 小胖蛙	xiao pang wa	999999
 小胖赢了	xiao pang ying le	999999
+小胖状态	xiao pang zhuang tai	999999
 小炮仗	xiao pao zhang	999999
 小屏旗舰	xiao ping qi jian	999999
 小奇迹	xiao qi ji	999999
@@ -10656,10 +10712,12 @@ use_preset_vocabulary: true
 小王子配色	xiao wang zi pei se	999999
 小乌梅	xiao wu mei	999999
 小象超市	xiao xiang chao shi	999999
+小巷人家超点	xiao xiang ren jia chao dian	999999
 小巷人家定档	xiao xiang ren jia ding dang	999999
 小巷人家开播	xiao xiang ren jia kai bo	999999
 小巷人家片尾	xiao xiang ren jia pian wei	999999
 小巷人家提档	xiao xiang ren jia ti dang	999999
+小巷人家吻戏	xiao xiang ren jia wen xi	999999
 小小林	xiao xiao lin	999999
 小小上铺拿下	xiao xiao shang pu na xia	999999
 小小摄影师	xiao xiao she ying shi	999999
@@ -10850,6 +10908,7 @@ use_preset_vocabulary: true
 信息不实已报警	xin xi bu shi yi bao jing	999999
 信息差	xin xi cha	999999
 心夏	xin xia	999999
+新型犯罪窝	xin xing fan zui wo	999999
 辛牙	xin ya	999999
 辛焱	xin yan	999999
 信仰的背叛	xin yang de bei pan	999999
@@ -10928,6 +10987,7 @@ use_preset_vocabulary: true
 星之破晓	xing zhi po xiao	999999
 星之王	xing zhi wang	999999
 杏子灰	xing zi hui	999999
+熊猫杯	xiong mao bei	999999
 熊猫计划	xiong mao ji hua	999999
 熊猫塑	xiong mao su	999999
 熊猫外卖	xiong mao wai mai	999999
@@ -10952,6 +11012,7 @@ use_preset_vocabulary: true
 徐聪聪	xu cong cong	999999
 徐德志	xu de zhi	999999
 许斐	xu fei	999999
+徐枫灿	xu feng can	999999
 许府牛	xu fu niu	999999
 戌狗	xu gou	999999
 虚构叙事	xu gou xu shi	999999
@@ -11510,6 +11571,7 @@ use_preset_vocabulary: true
 以军空袭也门	yi jun kong xi ye men	999999
 异客	yi ke	999999
 一刻不得闲	yi ke bu de xian	999999
+医科达	yi ke da	999999
 一科没过	yi ke mo guo	999999
 一颗闪	yi ke shan	999999
 一块钱上清华	yi kuai qian shang qing hua	999999
@@ -11714,6 +11776,7 @@ use_preset_vocabulary: true
 英锦赛	ying jin sai	999999
 硬控我	ying kong wo	999999
 赢了等于没赢	ying le deng yu mei ying	999999
+英磊	ying lei	999999
 赢喽	ying lou	999999
 英洛华	ying luo hua	999999
 赢麻	ying ma	999999
@@ -11777,6 +11840,7 @@ use_preset_vocabulary: true
 永夜长明定档	yong ye chang ming ding dang	999999
 永夜长明开播	yong ye chang ming kai bo	999999
 永夜星河编剧	yong ye xing he bian ju	999999
+永夜星河超点	yong ye xing he chao dian	999999
 永夜星河穿帮	yong ye xing he chuan bang	999999
 永夜星河打光	yong ye xing he da guang	999999
 永夜星河定档	yong ye xing he ding dang	999999
@@ -12260,6 +12324,7 @@ use_preset_vocabulary: true
 早安我的中国	zao an wo de zhong guo	999999
 早八人	zao ba ren	999999
 造城者	zao cheng zhe	999999
+早到的精彩	zao dao de jing cai	999999
 早点退休	zao dian tui xiu	999999
 造后者	zao hou zhe	999999
 早接	zao jie	999999
@@ -12586,6 +12651,7 @@ use_preset_vocabulary: true
 赵牧辰发声明	zhao mu chen fa sheng ming	999999
 赵牧辰哭了	zhao mu chen ku le	999999
 赵汝亮	zhao ru liang	999999
+赵睿受伤	zhao rui shou shang	999999
 赵若失	zhao ruo shi	999999
 赵若失摘镯子	zhao ruo shi zhai zhuo zi	999999
 招生单位	zhao sheng dan wei	999999
@@ -12941,6 +13007,7 @@ use_preset_vocabulary: true
 重力套	zhong li tao	999999
 中粮资本	zhong liang zi ben	999999
 中路那波	zhong lu na bo	999999
+中美元首	zhong mei yuan shou	999999
 种门	zhong men	999999
 中秘	zhong mi	999999
 中秘携手并进	zhong mi xie shou bing jin	999999
@@ -13075,6 +13142,7 @@ use_preset_vocabulary: true
 周深新歌虚构	zhou shen xin ge xu gou	999999
 周深巡回演唱	zhou shen xun hui yan chang	999999
 周深摘耳机	zhou shen zhai er ji	999999
+周深中场秀	zhou shen zhong chang xiu	999999
 周深自拍	zhou shen zi pai	999999
 周生辰	zhou sheng chen	999999
 周生如故	zhou sheng ru gu	999999
@@ -13100,6 +13168,7 @@ use_preset_vocabulary: true
 周一好想桃	zhou yi hao xiang tao	999999
 周一精神状态	zhou yi jing shen zhuang tai	999999
 周翊然叼吸管	zhou yi ran diao xi guan	999999
+周翊然见面会	zhou yi ran jian mian hui	999999
 周雨彤边界感	zhou yu tong bian jie gan	999999
 周雨彤发文	zhou yu tong fa wen	999999
 周雨彤路人缘	zhou yu tong lu ren yuan	999999
@@ -13201,6 +13270,7 @@ use_preset_vocabulary: true
 朱紫	zhu zi	999999
 抓大鹅	zhua da e	999999
 抓灵兽	zhua ling shou	999999
+抓马故事	zhua ma gu shi	999999
 抓猫猫	zhua mao mao	999999
 抓猫猫运动会	zhua mao mao yun dong hui	999999
 抓秋膘	zhua qiu biao	999999
@@ -13382,6 +13452,7 @@ use_preset_vocabulary: true
 最后一个球	zui hou yi ge qiu	999999
 最后一聚	zui hou yi ju	999999
 最后重量级	zui hou zhong liang ji	999999
+最佳故事片	zui jia gu shi pian	999999
 最佳观光体验	zui jia guan guang ti yan	999999
 最佳合伙人	zui jia he huo ren	999999
 最佳男演员	zui jia nan yan yuan	999999
