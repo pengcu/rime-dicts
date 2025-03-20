@@ -41,7 +41,13 @@ jobs:
         # 添加八股文选项
         sed -i '/sort: by_weight/a\use_preset_vocabulary: true' base.dict.yaml
 
+    - name: Check diff
+      id: check_diff
+      run: |
+        git diff --exit-code || echo "Changes detected"
+
     - name: Git push
+      if: steps.check_diff.outputs.stdout != 'Changes detected'
       run: |
         git config --local user.name "github-actions[bot]"
         git config --local user.email "github-actions[bot]@users.noreply.github.com"
