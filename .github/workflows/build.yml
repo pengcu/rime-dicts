@@ -44,7 +44,7 @@ jobs:
     - name: Check diff
       id: check_diff
       run: |
-        git diff --quiet && echo "Not Change" || git diff --exit-code
+        git diff --quiet && echo "Not Change"
 
     - name: Git push
       if: steps.check_diff.outputs.stdout != 'Not Change'
