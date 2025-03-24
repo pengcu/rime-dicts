@@ -44,10 +44,10 @@ jobs:
     - name: Check diff
       id: check_diff
       run: |
-        git diff --exit-code || echo "Changes detected"
+        git diff --quiet && echo "Not Change" || git diff --exit-code
 
     - name: Git push
-      if: steps.check_diff.outputs.stdout == 'Changes detected'
+      if: steps.check_diff.outputs.stdout != 'Not Change'
       run: |
         git config --local user.name "github-actions[bot]"
         git config --local user.email "github-actions[bot]@users.noreply.github.com"
