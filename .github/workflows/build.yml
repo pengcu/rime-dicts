@@ -44,13 +44,13 @@ jobs:
     - name: Check diff
       run: |
         if git diff --quiet; then
-          echo "NOT_CHANGE=NotChange" >> $GITHUB_ENV
+          echo "isChange=false" >> $GITHUB_ENV
         else
-          echo "NOT_CHANGE=Changed" >> $GITHUB_ENV
+          echo "isChange=true" >> $GITHUB_ENV
         fi
 
     - name: Git push
-      if: env.NOT_CHANGE != "NotChange"
+      if: ${{ !env.isChange }}
       run: |
         git config --local user.name "github-actions[bot]"
         git config --local user.email "github-actions[bot]@users.noreply.github.com"
