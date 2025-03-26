@@ -42,12 +42,15 @@ jobs:
         sed -i '/sort: by_weight/a\use_preset_vocabulary: true' base.dict.yaml
 
     - name: Check diff
-      id: check_diff
       run: |
-        git diff --quiet && echo "NotChange" || echo "Changes detected"
+        if git diff --quiet; then
+          echo "NOT_CHANGE=NotChange" >> $GITHUB_ENV
+        else
+          echo "NOT_CHANGE=Changed" >> $GITHUB_ENV
+        fi
 
     - name: Git push
-      if: steps.check_diff.outputs.stdout != "NotChange"
+      if: env.NOT_CHANGE != "NotChange"
       run: |
         git config --local user.name "github-actions[bot]"
         git config --local user.email "github-actions[bot]@users.noreply.github.com"
