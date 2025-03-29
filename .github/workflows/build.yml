@@ -50,7 +50,7 @@ jobs:
         fi
 
     - name: Git push
-      if: ${{ !env.isChange }}
+      # if: ${{ !env.isChange }}
       run: |
         git config --local user.name "github-actions[bot]"
         git config --local user.email "github-actions[bot]@users.noreply.github.com"
