@@ -58,6 +58,7 @@ jobs:
         git add ./sogou_hot.dict.yaml
         git add ./8105.dict.yaml
         git add ./base.dict.yaml
+        git add ./tencent.dict.yaml
         git commit -am "update"
         git push -f
         
