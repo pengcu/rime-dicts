@@ -26,40 +26,64 @@ use_preset_vocabulary: true
 阿策	a ce	999999
 阿蝉	a chan	999999
 阿脆	a cui	999999
+阿黛尔采访	a dai er cai fang	999999
 阿德里安	a de li an	999999
+阿豆一诺合照	a dou yi nuo he zhao	999999
 啊对对对	a dui dui dui	999999
+阿朵去歌手吧	a duo qu ge shou ba	999999
+阿尔巴尼亚	a er ba ni ya	999999
 阿尔古斯	a er gu si	999999
+阿尔卡拉斯	a er ka la si	999999
 阿尔玛	a er ma	999999
 阿尔塞	a er sai	999999
 阿尔图罗	a er tu luo	999999
+阿尔瓦雷斯	a er wa lei si	999999
 阿凡达重映	a fan da chong ying	999999
 阿甘左	a gan zuo	999999
 阿格莱亚	a ge lai ya	999999
 阿格莱雅	a ge lai ya	999999
+阿根廷队	a gen ting dui	999999
+阿根廷夺冠	a gen ting duo guan	999999
 阿娇复胖	a jiao fu pang	999999
 阿娇锁骨	a jiao suo gu	999999
 阿娇演的怨女	a jiao yan de yuan nv	999999
 阿姐又放粮了	a jie you fang liang le	999999
 阿卡丽来了	a ka li lai le	999999
+阿坎吉	a kan ji	999999
+阿坎吉失点	a kan ji shi dian	999999
+阿克萨	a ke sa	999999
+阿克萨洪水	a ke sa hong shui	999999
 阿克尚	a ke shang	999999
 阿枯	a ku	999999
 阿夸毕业	a kua bi ye	999999
 阿奎那	a kui na	999999
+阿拉伯国家	a la bo guo jia	999999
 阿拉梅	a la mei	999999
 阿拉米扬	a la mi yang	999999
 阿拉维斯	a la wei si	999999
 阿莱夫	a lai fu	999999
+阿兰出手吧	a lan chu shou ba	999999
 阿兰德龙	a lan de long	999999
 阿兰德龙去世	a lan de long qu shi	999999
+阿兰两射一传	a lan liang she yi chuan	999999
+阿兰梅开二度	a lan mei kai er du	999999
+阿兰助攻	a lan zhu gong	999999
+阿劳霍	a lao huo	999999
 阿勒颇	a le po	999999
 阿勒泰	a le tai	999999
 阿勒泰暴雪	a le tai bao xue	999999
 阿勒泰的秋天	a le tai de qiu tian	999999
+阿勒泰极光	a le tai ji guang	999999
+阿勒泰旅游	a le tai lv you	999999
 阿勒泰下雪了	a le tai xia xue le	999999
 阿里大涨	a li da zhang	999999
 阿利森谈夺冠	a li sen tan duo guan	999999
+阿狸是这儿吗	a li shi zhe er ma	999999
+阿里乌斯	a li wu si	999999
+阿里云服务器	a li yun fu wu qi	999999
 阿鲁纳	a lu na	999999
 阿玛德绝杀	a ma de jue sha	999999
+阿玛尼大秀	a ma ni da xiu	999999
 阿玛特拉斯	a ma te la si	999999
 阿帽	a mao	999999
 阿美莉卡	a mei li ka	999999
@@ -79,19 +103,30 @@ use_preset_vocabulary: true
 阿如那圈粉	a ru na quan fen	999999
 阿如那淘汰	a ru na tao tai	999999
 阿散	a san	999999
+阿桑奇认罪	a sang qi ren zui	999999
 阿瑟请开跑	a se qing kai pao	999999
+阿森纳球迷	a sen na qiu mi	999999
 阿升	a sheng	999999
 阿术	a shu	999999
 阿署达	a shu da	999999
+阿水走错了	a shui zou cuo le	999999
 阿斯卡纶	a si ka lun	999999
+阿斯麦	a si mai	999999
 阿斯帕斯	a si pa si	999999
+阿塔尔	a ta er	999999
 阿汤哥骑摩托	a tang ge qi mo tuo	999999
+阿条	a tiao	999999
+阿条姐	a tiao jie	999999
 阿条姐领奖	a tiao jie ling jiang	999999
 阿条姐太稳了	a tiao jie tai wen le	999999
+阿条姐天然萌	a tiao jie tian ran meng	999999
+阿条姐头像	a tiao jie tou xiang	999999
 阿维塔	a wei ta	999999
 阿维塔律师函	a wei ta lv shi han	999999
 阿维塔再发声	a wei ta zai fa sheng	999999
 阿信好会写	a xin hao hui xie	999999
+阿信又幸福了	a xin you xing fu le	999999
+阿信直播	a xin zhi bo	999999
 阿修罗之怒	a xiu luo zhi nu	999999
 阿雅好温柔	a ya hao wen rou	999999
 阿厌	a yan	999999
@@ -103,13 +138,18 @@ use_preset_vocabulary: true
 阿哲生日会	a zhe sheng ri hui	999999
 爱哎唉变装	ai ai ai bian zhuang	999999
 埃安	ai an	999999
+爱伴侣	ai ban lv	999999
 爱本质无异	ai ben zhi wu yi	999999
 爱藏	ai cang	999999
 爱纯	ai chun	999999
 爱错翻唱挑战	ai cuo fan chang tiao zhan	999999
 爱蛋蛋	ai dan dan	999999
+爱当然有用	ai dang ran you yong	999999
+爱的表达方式	ai de biao da fang shi	999999
 爱德华兹	ai de hua zi	999999
 爱德华兹受伤	ai de hua zi shou shang	999999
+爱德华兹吸粉	ai de hua zi xi fen	999999
+爱的科学配方	ai de ke xue pei fang	999999
 爱的三部曲	ai de san bu qu	999999
 爱的颂歌	ai de song ge	999999
 爱的暂停键	ai de zan ting jian	999999
@@ -118,6 +158,8 @@ use_preset_vocabulary: true
 艾尔登	ai er deng	999999
 艾尔登法环	ai er deng fa huan	999999
 艾福杰尼当爸	ai fu jie ni dang ba	999999
+艾感	ai gan	999999
+艾感科技	ai gan ke ji	999999
 爱哥的美女	ai ge de mei nv	999999
 爱喝一点点	ai he yi dian dian	999999
 哀黄	ai huang	999999
@@ -138,25 +180,33 @@ use_preset_vocabulary: true
 哀牢山堵车	ai lao shan du che	999999
 哀牢山危险性	ai lao shan wei xian xing	999999
 哀牢山野游	ai lao shan ye you	999999
+爱老师	ai lao shi	999999
+埃里克森破门	ai li ke sen po men	999999
 艾丽妮	ai li ni	999999
 爱丽退役	ai li tui yi	999999
 爱莉希雅	ai li xi ya	999999
 艾丽西亚	ai li xi ya	999999
 爱丽状态	ai li zhuang tai	999999
 艾莲	ai lian	999999
+艾莲鲨疯了	ai lian sha feng le	999999
 艾露猫	ai lu mao	999999
 艾伦宋亚轩	ai lun song ya xuan	999999
 爱玛科技	ai ma ke ji	999999
+爱马适	ai ma shi	999999
 爱马仕大秀	ai ma shi da xiu	999999
 暧昧拉扯	ai mei la che	999999
+艾梅莉埃	ai mei li ai	999999
 爱梅斯	ai mei si	999999
 艾米好灵	ai mi hao ling	999999
+艾米睫毛好长	ai mi jie mao hao chang	999999
 艾米买股粉	ai mi mai gu fen	999999
+埃姆雷詹	ai mu lei zhan	999999
 爱你超点	ai ni chao dian	999999
 爱你大结局	ai ni da jie ju	999999
 爱你定档	ai ni ding dang	999999
 爱你孤身走暗巷	ai ni gu shen zou an xiang	999999
 爱你观后感	ai ni guan hou gan	999999
+爱你官宣杀青	ai ni guan xuan sha qing	999999
 爱你很久很久	ai ni hen jiu hen jiu	999999
 爱你剧方道歉	ai ni ju fang dao qian	999999
 爱你开播	ai ni kai bo	999999
@@ -191,11 +241,16 @@ use_preset_vocabulary: true
 艾热舞台好燃	ai re wu tai hao ran	999999
 爱人不见了	ai ren bu jian le	999999
 爱人像小孩	ai ren xiang xiao hai	999999
+艾森豪威尔	ai sen hao wei er	999999
 爱上伍鹏	ai shang wu peng	999999
+爱上扬州	ai shang yang zhou	999999
 爱上张凌赫	ai shang zhang ling he	999999
+爱神回归	ai shen hui gui	999999
 爱水水	ai shui shui	999999
+埃斯特	ai si te	999999
 埃斯特雷	ai si te lei	999999
 艾威	ai wei	999999
+艾薇儿进村了	ai wei er jin cun le	999999
 埃文凯尔	ai wen kai er	999999
 埃文凯尔回国	ai wen kai er hui guo	999999
 爱我还是他	ai wo hai shi ta	999999
@@ -208,14 +263,20 @@ use_preset_vocabulary: true
 埃因霍温	ai yin huo wen	999999
 爱赢才会拼	ai ying cai hui pin	999999
 爱用物分享	ai yong wu fen xiang	999999
+爱游引力	ai you yin li	999999
+爱有用吗	ai you yong ma	999999
+艾云尼	ai yun ni	999999
+爱在陇南	ai zai long nan	999999
 爱在吸烟前	ai zai xi yan qian	999999
 艾扎克	ai zha ke	999999
+癌症人体地图	ai zheng ren ti di tu	999999
 爱值班的校猫	ai zhi ban de xiao mao	999999
 爱之巢	ai zhi chao	999999
 爱之深责之切	ai zhi shen ze zhi qie	999999
 艾滋病阻断	ai zi bing zu duan	999999
 艾滋女孩日记	ai zi nv hai ri ji	999999
 岸宝	an bao	999999
+安保压力	an bao ya li	999999
 按背	an bei	999999
 安倍撒	an bei sa	999999
 岸波白野	an bo bai ye	999999
@@ -224,22 +285,31 @@ use_preset_vocabulary: true
 安成民受伤	an cheng min shou shang	999999
 安淳蛋	an chun dan	999999
 犴达罕	an da han	999999
+安德里希	an de li xi	999999
 安顶山	an ding shan	999999
 安东内利	an dong nei li	999999
 安东尼奥车祸	an dong ni ao che huo	999999
+安东尼泰勒	an dong ni tai le	999999
 安东森	an dong sen	999999
 安东森球品	an dong sen qiu pin	999999
 岸防	an fang	999999
 安戈洛	an ge luo	999999
+安固诸方之述演	an gu zhu fang zhi shu yan	999999
 暗河长明	an he chang ming	999999
 暗河传	an he chuan	999999
+暗河传开机	an he chuan kai ji	999999
+暗河传女主	an he chuan nv zhu	999999
 暗黑面	an hei mian	999999
 暗黑魔女	an hei mo nv	999999
 暗黑向	an hei xiang	999999
 安徽地震	an hui di zhen	999999
 安徽地震了	an hui di zhen le	999999
+安徽化学	an hui hua xue	999999
+安徽历史	an hui li shi	999999
+安徽歙县	an hui she xian	999999
 安徽省考公告	an hui sheng kao gong gao	999999
 安徽铁塔	an hui tie ta	999999
+安徽物理	an hui wu li	999999
 安记食品	an ji shi pin	999999
 安静公主	an jing gong zhu	999999
 安静公主直播	an jing gong zhu zhi bo	999999
@@ -248,10 +318,12 @@ use_preset_vocabulary: true
 安康呀	an kang ya	999999
 暗壳科技	an ke ke ji	999999
 安乐死胶囊舱	an le si jiao nang cang	999999
+安利李娟	an li li juan	999999
 暗恋文学	an lian wen xue	999999
 安陵公主	an ling gong zhu	999999
 俺没相过亲	an mei xiang guo qin	999999
 安期	an qi	999999
+安切洛蒂水平	an qie luo di shui ping	999999
 安擎科技	an qing ke ji	999999
 安庆市立医院	an qing shi li yi yuan	999999
 安卿鱼	an qing yu	999999
@@ -266,6 +338,7 @@ use_preset_vocabulary: true
 安全箱	an quan xiang	999999
 安塞龙	an sai long	999999
 安赛龙	an sai long	999999
+安赛龙退赛	an sai long tui sai	999999
 安三胖	an san pang	999999
 暗杀未遂	an sha wei sui	999999
 鞍山小马	an shan xiao ma	999999
@@ -273,6 +346,10 @@ use_preset_vocabulary: true
 安神汤	an shen tang	999999
 安睡裤价格	an shui ku jia ge	999999
 安踏太神了	an ta tai shen le	999999
+安踏原神联动	an ta yuan shen lian dong	999999
+安藤樱	an teng ying	999999
+岸田	an tian	999999
+岸田文雄	an tian wen xiong	999999
 安万	an wan	999999
 安慰食物	an wei shi wu	999999
 安洗莹	an xi ying	999999
@@ -289,6 +366,7 @@ use_preset_vocabulary: true
 暗喻幻想	an yu huan xiang	999999
 俺正得发邪	an zheng dei fa xie	999999
 安卓妹	an zhuo mei	999999
+安卓味	an zhuo wei	999999
 安卓主题	an zhuo zhu ti	999999
 奥巴马秀饶舌	ao ba ma xiu rao she	999999
 奥本海默	ao ben hai mo	999999
@@ -313,12 +391,14 @@ use_preset_vocabulary: true
 澳大利亚联邦	ao da li ya lian bang	999999
 澳大利亚领先	ao da li ya ling xian	999999
 澳大利亚破门	ao da li ya po men	999999
+澳大利亚首金	ao da li ya shou jin	999999
 奥德彪	ao de biao	999999
 奥德诺	ao de nuo	999999
 傲得我很爽	ao de wo hen shuang	999999
 傲弟	ao di	999999
 奥丁战	ao ding zhan	999999
 奥尔菲斯	ao er fei si	999999
+奥尔莫	ao er mo	999999
 奥菲欧	ao fei ou	999999
 奥姑	ao gu	999999
 敖光	ao guang	999999
@@ -327,8 +407,14 @@ use_preset_vocabulary: true
 奥赫玛	ao he ma	999999
 澳假	ao jia	999999
 傲娇美	ao jiao mei	999999
+澳军	ao jun	999999
+傲科	ao ke	999999
+傲科光电	ao ke guang dian	999999
+奥克尼的雨	ao ke ni de yu	999999
+奥库斯	ao ku si	999999
 熬老汤	ao lao tang	999999
 熬老头	ao lao tou	999999
+奥利奥玩真的	ao li ao wan zhen de	999999
 奥莉花	ao li hua	999999
 奥利维拉	ao li wei la	999999
 奥美迦奥特曼	ao mei jia ao te man	999999
