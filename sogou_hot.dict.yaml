@@ -47,6 +47,7 @@ use_preset_vocabulary: true
 阿甘左	a gan zuo	999999
 阿格莱亚	a ge lai ya	999999
 阿格莱雅	a ge lai ya	999999
+阿根廷	a gen ting	999999
 阿根廷队	a gen ting dui	999999
 阿根廷夺冠	a gen ting duo guan	999999
 阿基孚	a ji fu	999999
@@ -97,7 +98,11 @@ use_preset_vocabulary: true
 阿里云服务器	a li yun fu wu qi	999999
 阿鲁纳	a lu na	999999
 阿玛德绝杀	a ma de jue sha	999999
+阿玛尼	a ma ni	999999
 阿玛尼大秀	a ma ni da xiu	999999
+阿玛尼发讣告	a ma ni fa fu gao	999999
+阿玛尼高定	a ma ni gao ding	999999
+阿玛尼生平	a ma ni sheng ping	999999
 阿玛特拉斯	a ma te la si	999999
 阿帽	a mao	999999
 阿美莉卡	a mei li ka	999999
@@ -108,6 +113,7 @@ use_preset_vocabulary: true
 阿莫斯	a mo si	999999
 阿尼斯	a ni si	999999
 阿尼亚	a ni ya	999999
+阿努廷	a nu ting	999999
 阿诺产后抑郁	a nuo chan hou yi yu	999999
 阿诺德	a nuo de	999999
 阿诺拉	a nuo la	999999
@@ -425,6 +431,7 @@ use_preset_vocabulary: true
 安宰贤	an zai xian	999999
 暗账	an zhang	999999
 俺正得发邪	an zheng dei fa xie	999999
+安卓猫	an zhuo mao	999999
 安卓妹	an zhuo mei	999999
 安卓味	an zhuo wei	999999
 安卓主题	an zhuo zhu ti	999999
