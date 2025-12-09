@@ -40,7 +40,9 @@ use_preset_vocabulary: true
 阿杜	a du	999999
 啊对对对	a dui dui dui	999999
 阿朵去歌手吧	a duo qu ge shou ba	999999
+阿尔巴	a er ba	999999
 阿尔巴尼亚	a er ba ni ya	999999
+阿尔波拉	a er bo la	999999
 阿尔古斯	a er gu si	999999
 阿尔卡拉斯	a er ka la si	999999
 阿尔玛	a er ma	999999
@@ -85,14 +87,18 @@ use_preset_vocabulary: true
 阿克萨洪水	a ke sa hong shui	999999
 阿克塞县	a ke sai xian	999999
 阿克尚	a ke shang	999999
+阿可替尼片	a ke ti ni pian	999999
 阿枯	a ku	999999
 阿夸毕业	a kua bi ye	999999
 阿奎那	a kui na	999999
 阿拉伯国家	a la bo guo jia	999999
 阿拉德战记	a la de zhan ji	999999
+阿拉贡队	a la gong dui	999999
+阿拉贡俱乐部	a la gong ju le bu	999999
 阿拉梅	a la mei	999999
 阿拉米扬	a la mi yang	999999
 阿拉木图	a la mu tu	999999
+阿拉斯加	a la si jia	999999
 阿拉斯加州	a la si jia zhou	999999
 阿拉斯托	a la si tuo	999999
 阿拉维斯	a la wei si	999999
@@ -157,6 +163,7 @@ use_preset_vocabulary: true
 阿炮	a pao	999999
 阿漂	a piao	999999
 阿蒲	a pu	999999
+阿奇姆彭	a qi mu peng	999999
 阿其那	a qi na	999999
 阿切尔比	a qie er bi	999999
 阿求	a qiu	999999
