@@ -127,6 +127,7 @@ use_preset_vocabulary: true
 阿蕾奇诺	a lei qi nuo	999999
 阿里	a li	999999
 阿里巴巴	a li ba ba	999999
+阿里巴巴公益	a li ba ba gong yi	999999
 阿里创新高	a li chuang xin gao	999999
 阿里大涨	a li da zhang	999999
 阿里公益	a li gong yi	999999
@@ -142,6 +143,10 @@ use_preset_vocabulary: true
 阿里乌斯	a li wu si	999999
 阿里云	a li yun	999999
 阿里云服务器	a li yun fu wu qi	999999
+阿联酋	a lian qiu	999999
+阿联酋国际投资峰会	a lian qiu guo ji tou zi feng hui	999999
+阿联酋央行	a lian qiu yang hang	999999
+阿联酋中央银行	a lian qiu zhong yang yin hang	999999
 阿隆索	a long suo	999999
 阿鲁纳	a lu na	999999
 阿玛德绝杀	a ma de jue sha	999999
@@ -197,6 +202,7 @@ use_preset_vocabulary: true
 阿术	a shu	999999
 阿署达	a shu da	999999
 阿水走错了	a shui zou cuo le	999999
+阿斯顿马丁	a si dun ma ding	999999
 阿斯卡纶	a si ka lun	999999
 阿斯麦	a si mai	999999
 阿斯莫代	a si mo dai	999999
