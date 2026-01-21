@@ -21,6 +21,9 @@ use_preset_vocabulary: true
 阿巴斯	a ba si	999999
 阿巴斯港	a ba si gang	999999
 阿拜多斯	a bai duo si	999999
+阿爆	a bao	999999
+阿爆回应	a bao hui ying	999999
+阿爆私密账号	a bao si mi zhang hao	999999
 阿贝贝	a bei bei	999999
 阿贝多	a bei duo	999999
 阿贝尔	a bei er	999999
@@ -28,6 +31,7 @@ use_preset_vocabulary: true
 阿赑	a bi	999999
 阿比奥顿	a bi ao dun	999999
 阿斌	a bin	999999
+阿波罗画廊	a bo luo hua lang	999999
 阿波尼亚	a bo ni ya	999999
 阿勃梭鲁	a bo suo lu	999999
 阿布	a bu	999999
@@ -40,6 +44,7 @@ use_preset_vocabulary: true
 阿蝉	a chan	999999
 阿禅官宣	a chan guan xuan	999999
 阿脆	a cui	999999
+阿达穆斯镇	a da mu si zhen	999999
 阿达娃淘汰	a da wa tao tai	999999
 阿黛	a dai	999999
 阿黛尔采访	a dai er cai fang	999999
@@ -62,6 +67,7 @@ use_preset_vocabulary: true
 阿尔卡拉斯	a er ka la si	999999
 阿尔玛	a er ma	999999
 阿尔塞	a er sai	999999
+阿尔山	a er shan	999999
 阿尔塔	a er ta	999999
 阿尔特塔	a er te ta	999999
 阿耳忒弥斯	a er tei mi si	999999
@@ -78,3 +84,5 @@ use_preset_vocabulary: true
 阿福	a fu	999999
 阿夫迪亚	a fu di ya	999999
 阿富汗	a fu han	999999
+阿富汗爆炸	a fu han bao zha	999999
+阿富汗内政部	a fu han nei zheng bu	999999
