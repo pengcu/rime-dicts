@@ -17,6 +17,7 @@ sort: by_weight
 use_preset_vocabulary: true
 ...
     
+阿安	a an	999999
 阿爸的刀	a ba de dao	999999
 阿巴基	a ba ji	999999
 阿巴斯	a ba si	999999
@@ -91,5 +92,6 @@ use_preset_vocabulary: true
 阿尔山	a er shan	999999
 阿尔塔	a er ta	999999
 阿尔特塔	a er te ta	999999
+阿尔忒弥斯	a er tei mi si	999999
 阿耳忒弥斯	a er tei mi si	999999
 阿尔忒弥斯美伢	a er tei mi si mei ya	999999
