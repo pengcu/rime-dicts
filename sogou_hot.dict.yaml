@@ -17,11 +17,12 @@ sort: by_weight
 use_preset_vocabulary: true
 ...
     
-阿坝	a ba	999999
 阿贝多	a bei duo	999999
+阿波罗	a bo luo	999999
+阿波罗计划	a bo luo ji hua	999999
+阿波罗投资	a bo luo tou zi	999999
 阿德耶米	a de ye mi	999999
-阿尔艾因队	a er ai yin dui	999999
-阿尔加亚号油轮	a er jia ya hao you lun	999999
+阿尔法部队	a er fa bu dui	999999
 阿尔扎拉金矿	a er zha la jin kuang	999999
 阿飞	a fei	999999
 阿富汗	a fu han	999999
@@ -31,19 +32,182 @@ use_preset_vocabulary: true
 阿基维利	a ji wei li	999999
 阿贾克斯	a jia ke si	999999
 阿卡丽	a ka li	999999
+阿拉伯海	a la bo hai	999999
+阿拉伯海北部	a la bo hai bei bu	999999
 阿拉格齐	a la ge qi	999999
 阿拉善风电项目	a la shan feng dian xiang mu	999999
 阿拉维斯	a la wei si	999999
 阿劳霍	a lao huo	999999
+阿勒泰	a le tai	999999
 阿里	a li	999999
+阿里虎鲸文娱	a li hu jing wen yu	999999
 阿里健康大药房	a li jian kang da yao fang	999999
+阿里通用医疗影像	a li tong yong yi liao ying xiang	999999
 阿联酋	a lian qiu	999999
 阿罗夏	a luo xia	999999
 阿曼	a man	999999
+阿曼海塞卜	a man hai sai bu	999999
 阿努比斯	a nu bi si	999999
 阿蒲	a pu	999999
 阿萨拉	a sa la	999999
-阿塞拜疆	a sai bai jiang	999999
 阿森纳	a sen na	999999
-阿森纳杯	a sen na bei	999999
-阿森纳联赛杯	a sen na lian sai bei	999999
+阿斯利康新药	a si li kang xin yao	999999
+阿维塔	a wei ta	999999
+阿信	a xin	999999
+阿云嘎	a yun ga	999999
+阿赞初	a zan chu	999999
+哀悼	ai dao	999999
+艾德生物	ai de sheng wu	999999
+艾登希文	ai deng xi wen	999999
+艾迪药业	ai di yao ye	999999
+爱尔兰	ai er lan	999999
+埃弗顿	ai fu dun	999999
+爱国教育	ai guo jiao yu	999999
+埃及	ai ji	999999
+爱可菲	ai ke fei	999999
+艾可菲	ai ke fei	999999
+爱科微	ai ke wei	999999
+爱奇艺	ai qi yi	999999
+爱情海	ai qing hai	999999
+艾热	ai re	999999
+埃斯波西托	ai si bo xi tuo	999999
+埃斯皮梅	ai si pi mei	999999
+爱心	ai xin	999999
+爱在无尽夏	ai zai wu jin xia	999999
+安德森	an de sen	999999
+暗黑四	an hei si	999999
+安徽	an hui	999999
+安徽工业大学	an hui gong ye da xue	999999
+安徽洪典	an hui hong dian	999999
+安徽觅拓	an hui mi tuo	999999
+安徽省投资集团	an hui sheng tou zi ji tuan	999999
+安徽省委	an hui sheng wei	999999
+安徽省委常委会	an hui sheng wei chang wei hui	999999
+安徽桐城	an hui tong cheng	999999
+安徽投资集团	an hui tou zi ji tuan	999999
+安徽芜湖警方	an hui wu hu jing fang	999999
+安徽湛江	an hui zhan jiang	999999
+案件	an jian	999999
+安凯客车股份	an kai ke che gu fen	999999
+安康	an kang	999999
+安联基金公司	an lian ji jin gong si	999999
+安琪拉	an qi la	999999
+安崎深圳	an qi shen zhen	999999
+安崎体育馆	an qi ti yu guan	999999
+安崎巡回演唱会	an qi xun hui yan chang hui	999999
+安庆兴凯半导体	an qing xing kai ban dao ti	999999
+安全车	an quan che	999999
+安全议定书	an quan yi ding shu	999999
+安燃	an ran	999999
+岸田文雄	an tian wen xiong	999999
+安伟	an wei	999999
+安阳	an yang	999999
+澳大利亚	ao da li ya	999999
+澳大利亚大学	ao da li ya da xue	999999
+澳大利亚大学联盟	ao da li ya da xue lian meng	999999
+澳大利亚政府	ao da li ya zheng fu	999999
+敖德萨	ao de sa	999999
+奥德赛	ao de sai	999999
+奥迪	ao di	999999
+奥地利	ao di li	999999
+奥恩	ao en	999999
+奥格斯堡	ao ge si bao	999999
+奥康国际股份	ao kang guo ji gu fen	999999
+奥康实控人	ao kang shi kong ren	999999
+奥拉夫	ao la fu	999999
+奥利弗	ao li fu	999999
+奥林匹斯	ao lin pi si	999999
+澳门	ao men	999999
+澳门冠军赛	ao men guan jun sai	999999
+澳门青少年升旗队	ao men qing shao nian sheng qi dui	999999
+澳门政务服务站	ao men zheng wu fu wu zhan	999999
+奥瑞德	ao rui de	999999
+奥士康	ao shi kang	999999
+奥特曼	ao te man	999999
+奥义	ao yi	999999
+敖尹	ao yin	999999
+奥运积分体系	ao yun ji fen ti xi	999999
+澳洲联储理事会	ao zhou lian chu li shi hui	999999
+澳洲央行	ao zhou yang hang	999999
+爸爸当家第五季	ba ba dang jia di wu ji	999999
+八宝山	ba bao shan	999999
+八宝山殡仪馆	ba bao shan bin yi guan	999999
+八宝山革命公墓	ba bao shan ge ming gong mu	999999
+八宝山站	ba bao shan zhan	999999
+八村塁	ba cun lei	999999
+巴旦木	ba dan mu	999999
+巴德	ba de	999999
+八段锦	ba duan jin	999999
+巴方	ba fang	999999
+巴方海军	ba fang hai jun	999999
+巴海军	ba hai jun	999999
+八花	ba hua	999999
+巴基斯坦	ba ji si tan	999999
+巴基斯坦海军	ba ji si tan hai jun	999999
+巴基斯坦侯奈因号	ba ji si tan hou nai yin hao	999999
+巴基斯坦胡奈因号	ba ji si tan hu nai yin hao	999999
+巴克十	ba ke shi	999999
+巴勒斯坦	ba le si tan	999999
+巴黎	ba li	999999
+巴列卡诺	ba lie ka nuo	999999
+巴林	ba lin	999999
+巴林大奖赛	ba lin da jiang sai	999999
+巴马	ba ma	999999
+巴拿马	ba na ma	999999
+八年制临床医学	ba nian zhi lin chuang yi xue	999999
+巴萨	ba sa	999999
+巴萨竞技	ba sa jing ji	999999
+巴塞罗那	ba sai luo na	999999
+巴西	ba xi	999999
+巴西龟	ba xi gui	999999
+八仙	ba xian	999999
+八音	ba yin	999999
+八音盒	ba yin he	999999
+八音窍	ba yin qiao	999999
+八月初八	ba yue chu ba	999999
+八月初二	ba yue chu er	999999
+八月初六	ba yue chu liu	999999
+百变背屏	bai bian bei ping	999999
+白藏	bai cang	999999
+百草枯	bai cao ku	999999
+白宫	bai gong	999999
+拜合拉木	bai he la mu	999999
+白狐社	bai hu she	999999
+百花杀	bai hua sha	999999
+白敬亭	bai jing ting	999999
+白举纲	bai ju gang	999999
+白举纲工作室	bai ju gang gong zuo shi	999999
+败决	bai jue	999999
+百利天恒	bai li tian heng	999999
+百利天恒投资	bai li tian heng tou zi	999999
+白露	bai lu	999999
+白鹿	bai lu	999999
+白鹿海外见面会	bai lu hai wai jian mian hui	999999
+白鹿片场	bai lu pian chang	999999
+百年天龙山	bai nian tian long shan	999999
+拜仁	bai ren	999999
+白森	bai sen	999999
+柏杉	bai shan	999999
+白胎	bai tai	999999
+柏太阳神	bai tai yang shen	999999
+白条	bai tiao	999999
+拜托大家三件事	bai tuo da jia san jian shi	999999
+柏闻	bai wen	999999
+白雾红尘	bai wu hong chen	999999
+白鸦	bai ya	999999
+白岩松	bai yan song	999999
+百妖谱	bai yao pu	999999
+白银	bai yin	999999
+白银区	bai yin qu	999999
+白银新材料	bai yin xin cai liao	999999
+白幼薇	bai you wei	999999
+白云区	bai yun qu	999999
+白术	bai zhu	999999
+版本答案	ban ben da an	999999
+版本前瞻	ban ben qian zhan	999999
+半导体	ban dao ti	999999
+半导体股	ban dao ti gu	999999
+半导体链	ban dao ti lian	999999
+半导体钠电	ban dao ti na dian	999999
+半导体题材股	ban dao ti ti cai gu	999999
+半导体新材料	ban dao ti xin cai liao	999999
