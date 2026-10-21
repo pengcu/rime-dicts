@@ -20,19 +20,23 @@ use_preset_vocabulary: true
 阿坝州	a ba zhou	999999
 阿宝	a bao	999999
 阿波罗	a bo luo	999999
+阿策	a ce	999999
+阿丑	a chou	999999
 阿楚姑娘	a chu gu niang	999999
 阿达西	a da xi	999999
 阿道夫	a dao fu	999999
-阿德耶米	a de ye mi	999999
+阿尔伯塔省	a er bo ta sheng	999999
+阿尔法	a er fa	999999
 阿尔山	a er shan	999999
 阿尔山市法院	a er shan shi fa yuan	999999
-阿尔泰	a er tai	999999
 阿芳	a fang	999999
 阿飞	a fei	999999
 阿富汗	a fu han	999999
 阿戈尔	a ge er	999999
 阿根廷	a gen ting	999999
 阿哈	a ha	999999
+阿贾克斯	a jia ke si	999999
+阿金	a jin	999999
 阿军	a jun	999999
 阿卡	a ka	999999
 阿卡丽	a ka li	999999
@@ -45,17 +49,16 @@ use_preset_vocabulary: true
 阿里云	a li yun	999999
 阿联酋	a lian qiu	999999
 阿罗夏	a luo xia	999999
+阿洛伊西	a luo yi xi	999999
 阿曼	a man	999999
-阿曼湾	a man wan	999999
+阿曼队	a man dui	999999
 阿梅	a mei	999999
 阿念	a nian	999999
 阿努比斯	a nu bi si	999999
 阿帕次	a pa ci	999999
-阿皮	a pi	999999
-阿普瑞庄园	a pu rui zhuang yuan	999999
+阿强	a qiang	999999
 阿萨拉	a sa la	999999
 阿森纳	a sen na	999999
-阿斯拉达	a si la da	999999
 阿旺	a wang	999999
 阿维塔	a wei ta	999999
 阿信	a xin	999999
@@ -63,9 +66,11 @@ use_preset_vocabulary: true
 阿雅	a ya	999999
 阿依	a yi	999999
 阿英	a ying	999999
+阿育娅	a yu ya	999999
 阿云嘎	a yun ga	999999
-埃博拉	ai bo la	999999
+艾卜哈国际机场	ai bu ha guo ji ji chang	999999
 艾达	ai da	999999
+艾尔德	ai er de	999999
 埃尔法	ai er fa	999999
 爱尔兰	ai er lan	999999
 埃弗顿	ai fu dun	999999
@@ -73,31 +78,25 @@ use_preset_vocabulary: true
 爱国者	ai guo zhe	999999
 爱黄子韬	ai huang zi tao	999999
 埃及	ai ji	999999
-哀酱	ai jiang	999999
 艾卡	ai ka	999999
 爱可菲	ai ke fei	999999
 爱马仕	ai ma shi	999999
 爱奇艺	ai qi yi	999999
 爱情公寓	ai qing gong yu	999999
-爱情假说	ai qing jia shuo	999999
-埃塞俄比亚	ai sai e bi ya	999999
 爱师	ai shi	999999
+埃斯顿	ai si dun	999999
+爱思唯尔	ai si wei er	999999
 癌细胞	ai xi bao	999999
 爱心	ai xin	999999
 爱徐艺洋	ai xu yi yang	999999
 艾因	ai yin	999999
-安巴尼	an ba ni	999999
-安德列娃	an de lie wa	999999
+安德烈耶娃	an de lie ye wa	999999
 安德森	an de sen	999999
-安东内利	an dong nei li	999999
-安东森	an dong sen	999999
 安官	an guan	999999
 案号	an hao	999999
 安徽	an hui	999999
 安徽大学	an hui da xue	999999
 安徽江淮汽车集团	an hui jiang huai qi che ji tuan	999999
-安徽省阜南县人民法院	an hui sheng fu nan xian ren min fa yuan	999999
-安徽省市场监管局	an hui sheng shi chang jian guan ju	999999
 安魂曲	an hun qu	999999
 案件	an jian	999999
 安洁	an jie	999999
@@ -112,21 +111,21 @@ use_preset_vocabulary: true
 安琪拉	an qi la	999999
 安乾镐	an qian gao	999999
 安丘	an qiu	999999
-安全车	an quan che	999999
 安全阀	an quan fa	999999
 安全培训	an quan pei xun	999999
 安全完赛	an quan wan sai	999999
 安全隐患	an quan yin huan	999999
 鞍山	an shan	999999
 安踏	an ta	999999
+安洗莹	an xi ying	999999
 安修泽	an xiu ze	999999
 安许	an xu	999999
-安养	an yang	999999
 安阳	an yang	999999
 安义	an yi	999999
 安宇	an yu	999999
 安岳	an yue	999999
 安责险	an ze xian	999999
+奥比中光	ao bi zhong guang	999999
 澳超	ao chao	999999
 澳大利亚	ao da li ya	999999
 敖德萨	ao de sa	999999
@@ -137,8 +136,6 @@ use_preset_vocabulary: true
 奥丁	ao ding	999999
 奥杜尔	ao du er	999999
 奥恩	ao en	999999
-奥尔	ao er	999999
-奥格斯堡	ao ge si bao	999999
 澳弘	ao hong	999999
 澳假	ao jia	999999
 凹坑	ao keng	999999
@@ -149,32 +146,31 @@ use_preset_vocabulary: true
 奥林匹克	ao lin pi ke	999999
 澳门	ao men	999999
 敖瑞鹏	ao rui peng	999999
+奥萨苏纳	ao sa su na	999999
 奥赛	ao sai	999999
 奥斯卡	ao si ka	999999
-奥斯塔彭科	ao si ta peng ke	999999
+奥索里奥	ao suo li ao	999999
 奥体中心	ao ti zhong xin	999999
-澳网	ao wang	999999
 澳洋	ao yang	999999
 奥义	ao yi	999999
 敖尹	ao yin	999999
 爸爸当家第五季	ba ba dang jia di wu ji	999999
-巴布	ba bu	999999
 巴旦木	ba dan mu	999999
 巴德	ba de	999999
 巴蒂	ba di	999999
+八点八	ba dian ba	999999
 八段锦	ba duan jin	999999
 巴尔克拉	ba er ke la	999999
 把黑夜点燃	ba hei ye dian ran	999999
 巴基斯坦	ba ji si tan	999999
-巴加埃	ba jia ai	999999
 巴克十	ba ke shi	999999
-巴拉圭	ba la gui	999999
 巴莱巴	ba lai ba	999999
 巴勒斯坦	ba le si tan	999999
 巴黎	ba li	999999
-巴黎车展	ba li che zhan	999999
+巴黎奥运会	ba li ao yun hui	999999
+巴黎圣日耳曼	ba li sheng ri er man	999999
 巴黎世家	ba li shi jia	999999
-巴黎时装周	ba li shi zhuang zhou	999999
+巴列卡诺	ba lie ka nuo	999999
 巴林	ba lin	999999
 巴马	ba ma	999999
 巴拿马	ba na ma	999999
@@ -182,6 +178,8 @@ use_preset_vocabulary: true
 巴萨	ba sa	999999
 巴塞罗那	ba sai luo na	999999
 芭莎	ba sha	999999
+芭莎男士	ba sha nan shi	999999
+芭莎盛典	ba sha sheng dian	999999
 巴蜀	ba shu	999999
 拔丝	ba si	999999
 霸王	ba wang	999999
@@ -189,6 +187,7 @@ use_preset_vocabulary: true
 霸王茶	ba wang cha	999999
 霸王茶姬	ba wang cha ji	999999
 巴西	ba xi	999999
+巴西龟	ba xi gui	999999
 八仙	ba xian	999999
 霸业	ba ye	999999
 八音	ba yin	999999
@@ -200,7 +199,6 @@ use_preset_vocabulary: true
 百度	bai du	999999
 白鹅潭	bai e tan	999999
 白宫	bai gong	999999
-白果酸	bai guo suan	999999
 百果园	bai guo yuan	999999
 百花	bai hua	999999
 百花杀	bai hua sha	999999
@@ -211,17 +209,17 @@ use_preset_vocabulary: true
 百里守约	bai li shou yue	999999
 白露	bai lu	999999
 白鹿	bai lu	999999
-白鹿朝玉阶	bai lu chao yu jie	999999
+白鹿工作室	bai lu gong zuo shi	999999
 拜仁	bai ren	999999
 百日宴	bai ri yan	999999
 白沙	bai sha	999999
+白沙县林业局	bai sha xian lin ye ju	999999
 拜山	bai shan	999999
-百胜中国	bai sheng zhong guo	999999
 百事	bai shi	999999
 百事可乐	bai shi ke le	999999
-白世奎	bai shi kui	999999
 百事通	bai shi tong	999999
 柏太阳神	bai tai yang shen	999999
+白桃香氛洁厕慕斯	bai tao xiang fen jie ce mu si	999999
 白条	bai tiao	999999
 百团大战	bai tuan da zhan	999999
 白雾红尘	bai wu hong chen	999999
@@ -232,7 +230,6 @@ use_preset_vocabulary: true
 百业战	bai ye zhan	999999
 白衣逆行者	bai yi ni xing zhe	999999
 白银	bai yin	999999
-白幼瘦	bai you shou	999999
 白宇	bai yu	999999
 白玉兰	bai yu lan	999999
 柏源	bai yuan	999999
@@ -244,6 +241,7 @@ use_preset_vocabulary: true
 办案	ban an	999999
 半场	ban chang	999999
 半导体	ban dao ti	999999
+半导体板块	ban dao ti ban kuai	999999
 办公	ban gong	999999
 办公费	ban gong fei	999999
 办公会	ban gong hui	999999
@@ -259,6 +257,7 @@ use_preset_vocabulary: true
 板块	ban kuai	999999
 板了	ban le	999999
 办理	ban li	999999
+斑马救援队	ban ma jiu yuan dui	999999
 版面费	ban mian fei	999999
 半亩花田	ban mu hua tian	999999
 班排	ban pai	999999
@@ -272,21 +271,20 @@ use_preset_vocabulary: true
 扮演者	ban yan zhe	999999
 班子	ban zi	999999
 邦布	bang bu	999999
-帮抽	bang chou	999999
 邦多利	bang duo li	999999
 绑关系	bang guan xi	999999
 报案	bao an	999999
 宝安区	bao an qu	999999
 爆爆爆	bao bao bao	999999
-宝贝回家	bao bei hui jia	999999
 宝贝们	bao bei men	999999
 报表	bao biao	999999
 保持联系	bao chi lian xi	999999
+宝船	bao chuan	999999
 爆单	bao dan	999999
 包的包的	bao de bao de	999999
 保定	bao ding	999999
 宝鼎	bao ding	999999
-保发	bao fa	999999
+暴动	bao dong	999999
 爆发夜	bao fa ye	999999
 报告书	bao gao shu	999999
 报告厅	bao gao ting	999999
@@ -295,6 +293,7 @@ use_preset_vocabulary: true
 包河	bao he	999999
 包惠	bao hui	999999
 报回	bao hui	999999
+保加利亚	bao jia li ya	999999
 报建	bao jian	999999
 保健室	bao jian shi	999999
 保教	bao jiao	999999
@@ -306,8 +305,10 @@ use_preset_vocabulary: true
 爆拉	bao la	999999
 宝蓝	bao lan	999999
 保理	bao li	999999
+宝莲禅寺	bao lian chan si	999999
 宝莲灯	bao lian deng	999999
 爆料	bao liao	999999
+保隆	bao long	999999
 报录比	bao lu bi	999999
 宝马	bao ma	999999
 保密观	bao mi guan	999999
@@ -318,8 +319,8 @@ use_preset_vocabulary: true
 保姆鹅	bao mu e	999999
 宝能	bao neng	999999
 包牌	bao pai	999999
+爆品团	bao pin tuan	999999
 保平	bao ping	999999
-宝瓶	bao ping	999999
 爆破	bao po	999999
 包青天	bao qing tian	999999
 鲍师傅	bao shi fu	999999
@@ -328,13 +329,13 @@ use_preset_vocabulary: true
 报税	bao shui	999999
 保司	bao si	999999
 报送	bao song	999999
-爆条	bao tiao	999999
 包头	bao tou	999999
 趵突泉	bao tu quan	999999
+鲍威尔	bao wei er	999999
 保险	bao xian	999999
 保险公司	bao xian gong si	999999
 报销单	bao xiao dan	999999
-宝兴	bao xing	999999
+暴雪山庄	bao xue shan zhuang	999999
 保研	bao yan	999999
 暴雨	bao yu	999999
 保质保量	bao zhi bao liang	999999
@@ -343,8 +344,13 @@ use_preset_vocabulary: true
 宝子们	bao zi men	999999
 备案	bei an	999999
 备案证	bei an zheng	999999
+悲报	bei bao	999999
 北部湾	bei bu wan	999999
+北川	bei chuan	999999
+北川地震遗址	bei chuan di zhen yi zhi	999999
+北川县	bei chuan xian	999999
 北大	bei da	999999
+被盗	bei dao	999999
 贝蒂斯	bei di si	999999
 北方四岛	bei fang si dao	999999
 被告	bei gao	999999
@@ -356,20 +362,19 @@ use_preset_vocabulary: true
 北交所	bei jiao suo	999999
 北京	bei jing	999999
 北京大学	bei jing da xue	999999
-北京电力交易中心	bei jing dian li jiao yi zhong xin	999999
-北京法源寺	bei jing fa yuan si	999999
 北京国安	bei jing guo an	999999
 北京马拉松	bei jing ma la song	999999
+北京男篮	bei jing nan lan	999999
+北京鸟巢	bei jing niao chao	999999
 北京市	bei jing shi	999999
 北京时间	bei jing shi jian	999999
-北京延庆海陀山	bei jing yan qing hai tuo shan	999999
 北科	bei ke	999999
-贝克汉姆	bei ke han mu	999999
 贝克曼	bei ke man	999999
 备课组长	bei ke zu chang	999999
+北控	bei kong	999999
+北控男篮	bei kong nan lan	999999
 北理工	bei li gong	999999
 贝林	bei lin	999999
-贝林厄姆	bei lin e mu	999999
 北马	bei ma	999999
 卑弥呼	bei mi hu	999999
 北宁	bei ning	999999
@@ -379,7 +384,6 @@ use_preset_vocabulary: true
 备勤	bei qin	999999
 贝瑞	bei rui	999999
 北三县	bei san xian	999999
-北上广深四城	bei shang guang shen si cheng	999999
 背身	bei shen	999999
 背饰	bei shi	999999
 北师大	bei shi da	999999
@@ -387,9 +391,9 @@ use_preset_vocabulary: true
 北体	bei ti	999999
 杯贴	bei tie	999999
 背头	bei tou	999999
-北溪	bei xi	999999
 北邮	bei you	999999
 北约	bei yue	999999
+北证	bei zheng	999999
 被执行人	bei zhi xing ren	999999
 杯子	bei zi	999999
 本案	ben an	999999
@@ -398,7 +402,6 @@ use_preset_vocabulary: true
 本科线	ben ke xian	999999
 奔跑吧	ben pao ba	999999
 奔腾	ben teng	999999
-本土手游开发商	ben tu shou you kai fa shang	999999
 本息	ben xi	999999
 苯乙烯	ben yi xi	999999
 本源	ben yuan	999999
@@ -407,10 +410,7 @@ use_preset_vocabulary: true
 本周日	ben zhou ri	999999
 本周五	ben zhou wu	999999
 崩铁	beng tie	999999
-毕宝文	bi bao wen	999999
 必达	bi da	999999
-毕尔巴鄂	bi er ba e	999999
-必翻	bi fan	999999
 壁画	bi hua	999999
 笔尖	bi jian	999999
 毕节	bi jie	999999
@@ -419,11 +419,9 @@ use_preset_vocabulary: true
 秘鲁	bi lu	999999
 比鲁斯	bi lu si	999999
 比萨	bi sa	999999
-比斯利	bi si li	999999
 比斯特	bi si te	999999
 碧桃	bi tao	999999
 比特币	bi te bi	999999
-比特犬	bi te quan	999999
 比星	bi xing	999999
 比亚迪	bi ya di	999999
 毕业证书	bi ye zheng shu	999999
@@ -437,6 +435,7 @@ use_preset_vocabulary: true
 变天	bian tian	999999
 变形计	bian xing ji	999999
 边狱巴士	bian yu ba shi	999999
+边缘行者	bian yuan xing zhe	999999
 彪哥	biao ge	999999
 表计	biao ji	999999
 彪马	biao ma	999999
@@ -449,23 +448,26 @@ use_preset_vocabulary: true
 标准糖	biao zhun tang	999999
 别克	bie ke	999999
 别礼	bie li	999999
-髌股关节疼痛综合征	bin gu guan jie teng tong zong he zheng	999999
+别斯克列斯特诺夫	bie si ke lie si te nuo fu	999999
 缤果	bin guo	999999
 滨海湾	bin hai wan	999999
 滨江道	bin jiang dao	999999
 宾利	bin li	999999
 殡仪馆	bin yi guan	999999
 滨州	bin zhou	999999
+彬准	bin zhun	999999
 病案室	bing an shi	999999
 冰雹	bing bao	999999
 冰岛	bing dao	999999
 冰队	bing dui	999999
 冰墩墩	bing dun dun	999999
+冰宫密令	bing gong mi ling	999999
 冰锅	bing guo	999999
 病害	bing hai	999999
 冰皇	bing huang	999999
 病假	bing jia	999999
 冰蓝	bing lan	999999
+槟榔青果	bing lang qing guo	999999
 病例	bing li	999999
 病历	bing li	999999
 病理科	bing li ke	999999
@@ -481,31 +483,34 @@ use_preset_vocabulary: true
 冰雪奇缘	bing xue qi yuan	999999
 病种	bing zhong	999999
 冰主	bing zhu	999999
+博大光学	bo da guang xue	999999
 博德闪耀	bo de shan yao	999999
 波段	bo duan	999999
 伯恩	bo en	999999
 伯恩利	bo en li	999999
 伯恩茅斯	bo en mao si	999999
 波尔	bo er	999999
-波尔多	bo er duo	999999
 波尔图	bo er tu	999999
 拨付	bo fu	999999
 伯哥	bo ge	999999
+伯格	bo ge	999999
+波哈	bo ha	999999
 渤海	bo hai	999999
 博君一肖	bo jun yi xiao	999999
 波兰	bo lan	999999
 柏林	bo lin	999999
-博洛尼亚	bo luo ni ya	999999
 博纳	bo na	999999
 玻尿酸	bo niao suan	999999
+波斯湾	bo si wan	999999
 波特	bo te	999999
-伯特利	bo te li	999999
 博文路	bo wen lu	999999
 博物	bo wu	999999
 伯牙绝弦	bo ya jue xian	999999
 伯牙绝铉	bo ya jue xuan	999999
 波音	bo yin	999999
 博越	bo yue	999999
+博扎	bo zha	999999
+亳州	bo zhou	999999
 补班	bu ban	999999
 补测	bu ce	999999
 补偿金	bu chang jin	999999
@@ -519,19 +524,22 @@ use_preset_vocabulary: true
 捕获	bu huo	999999
 捕获明光	bu huo ming guang	999999
 部件	bu jian	999999
+不见英雄花不开	bu jian ying xiong hua bu kai	999999
 不见岳	bu jian yue	999999
 补缴	bu jiao	999999
 不快乐	bu kuai le	999999
+布拉加	bu la jia	999999
+布莱顿	bu lai dun	999999
 不莱梅	bu lai mei	999999
 布朗	bu lang	999999
+布朗尼	bu lang ni	999999
 部里	bu li	999999
+布丽吉特	bu li ji te	999999
 卜灵	bu ling	999999
 布灵	bu ling	999999
 布鲁日	bu lu ri	999999
-布鲁塞尔	bu lu sai er	999999
 布鲁伊	bu lu yi	999999
 布伦特	bu lun te	999999
-布伦特福德	bu lun te fu de	999999
 布伦特原油	bu lun te yuan you	999999
 布洛芬	bu luo fen	999999
 部门	bu men	999999
@@ -547,28 +555,28 @@ use_preset_vocabulary: true
 步行者	bu xing zhe	999999
 不朽	bu xiu	999999
 补选	bu xuan	999999
-不夜天	bu ye tian	999999
-不造车	bu zao che	999999
 部长	bu zhang	999999
 补作业	bu zuo ye	999999
 财报	cai bao	999999
 踩不断	cai bu duan	999999
-才才	cai cai	999999
+猜猜我是谁	cai cai wo shi shui	999999
 彩蛋	cai dan	999999
 菜单	cai dan	999999
 裁定	cai ding	999999
 裁定书	cai ding shu	999999
 踩断	cai duan	999999
 采购部	cai gou bu	999999
-蔡健雅	cai jian ya	999999
 财金	cai jin	999999
 财经	cai jing	999999
+财经调查	cai jing diao cha	999999
 蔡康永	cai kang yong	999999
 菜篮子	cai lan zi	999999
 材料	cai liao	999999
+菜鸟裹裹	cai niao guo guo	999999
 裁判员	cai pan yuan	999999
 蔡琴	cai qin	999999
 彩球	cai qiu	999999
+采桑子	cai sang zi	999999
 踩刹车	cai sha che	999999
 财神	cai shen	999999
 财神爷	cai shen ye	999999
@@ -595,14 +603,13 @@ use_preset_vocabulary: true
 参公	can gong	999999
 参会	can hui	999999
 参会人员	can hui ren yuan	999999
-残卷	can juan	999999
 残联	can lian	999999
 参评	can ping	999999
 参赛	can sai	999999
 参训	can xun	999999
 沧澜	cang lan	999999
 苍南	cang nan	999999
-藏手机	cang shou ji	999999
+藏手机神器	cang shou ji shen qi	999999
 苍梧	cang wu	999999
 苍溪	cang xi	999999
 苍翼	cang yi	999999
@@ -615,9 +622,9 @@ use_preset_vocabulary: true
 草莓酱	cao mei jiang	999999
 草神	cao shen	999999
 草书	cao shu	999999
+槽位	cao wei	999999
 曹杨	cao yang	999999
 曹云金	cao yun jin	999999
-策略组	ce lue zu	999999
 侧身	ce shen	999999
 测试机	ce shi ji	999999
 测序	ce xu	999999
@@ -627,6 +634,7 @@ use_preset_vocabulary: true
 查档	cha dang	999999
 差额	cha e	999999
 茶馆	cha guan	999999
+察哈尔高新技术开发区	cha ha er gao xin ji shu kai fa qu	999999
 察哈尔高新区	cha ha er gao xin qu	999999
 察哈尔右翼前旗	cha ha er you yi qian qi	999999
 茶话弄	cha hua nong	999999
@@ -639,13 +647,18 @@ use_preset_vocabulary: true
 差旅费	chai lv fei	999999
 柴油	chai you	999999
 柴油协议	chai you xie yi	999999
+禅城区卫健局	chan cheng qu wei jian ju	999999
+产品溯源游	chan pin su yuan you	999999
 产权证	chan quan zheng	999999
 产投	chan tou	999999
+产耀东	chan yao dong	999999
 产业	chan ye	999999
 长安街	chang an jie	999999
-长安汽车	chang an qi che	999999
 常伴	chang ban	999999
+常备借贷便利	chang bei jie dai bian li	999999
 长城	chang cheng	999999
+长城建设集团	chang cheng jian she ji tuan	999999
+长城军工	chang cheng jun gong	999999
 长虫	chang chong	999999
 长春	chang chun	999999
 常德	chang de	999999
@@ -653,15 +666,11 @@ use_preset_vocabulary: true
 长电	chang dian	999999
 昌都	chang du	999999
 嫦娥	chang e	999999
-嫦娥四号	chang e si hao	999999
-长弓溪谷	chang gong xi gu	999999
-长和	chang he	999999
 常华森	chang hua sen	999999
 长会	chang hui	999999
 昌吉	chang ji	999999
 长江	chang jiang	999999
 长街	chang jie	999999
-长镜头	chang jing tou	999999
 长剧	chang ju	999999
 长乐	chang le	999999
 长流	chang liu	999999
@@ -670,6 +679,7 @@ use_preset_vocabulary: true
 长三角	chang san jiao	999999
 长三角国际青年电影周	chang san jiao guo ji qing nian dian ying zhou	999999
 长沙	chang sha	999999
+长沙演唱会	chang sha yan chang hui	999999
 昌盛	chang sheng	999999
 长生契	chang sheng qi	999999
 长实集团	chang shi ji tuan	999999
@@ -681,18 +691,19 @@ use_preset_vocabulary: true
 长鑫	chang xin	999999
 长鑫科技	chang xin ke ji	999999
 长兴	chang xing	999999
-长影	chang ying	999999
+长影集团	chang ying ji tuan	999999
+长盈通	chang ying tong	999999
 长征	chang zheng	999999
 长征组歌	chang zheng zu ge	999999
 长治	chang zhi	999999
 长治市	chang zhi shi	999999
 常州	chang zhou	999999
-常州队	chang zhou dui	999999
 超长蛋挞	chao chang dan ta	999999
 抄底	chao di	999999
 抄底了	chao di le	999999
 超跌	chao die	999999
 超格	chao ge	999999
+超级大乐透	chao ji da le tou	999999
 超级飞侠	chao ji fei xia	999999
 朝陇山	chao long shan	999999
 潮牌	chao pai	999999
@@ -701,6 +712,7 @@ use_preset_vocabulary: true
 超时免单	chao shi mian dan	999999
 潮汐	chao xi	999999
 朝鲜	chao xian	999999
+朝鲜劳动党	chao xian lao dong dang	999999
 抄写	chao xie	999999
 潮阳	chao yang	999999
 超意兴	chao yi xing	999999
@@ -715,7 +727,6 @@ use_preset_vocabulary: true
 车厢	che xiang	999999
 车长	che zhang	999999
 陈阿炳	chen a bing	999999
-陈斌华	chen bin hua	999999
 陈伯	chen bo	999999
 陈博	chen bo	999999
 陈楚生	chen chu sheng	999999
@@ -725,14 +736,13 @@ use_preset_vocabulary: true
 尘封	chen feng	999999
 陈刚	chen gang	999999
 陈冠希	chen guan xi	999999
-陈广宇	chen guang yu	999999
 陈行	chen hang	999999
+陈行甲	chen hang jia	999999
 陈赫	chen he	999999
-陈慧琳	chen hui lin	999999
 陈佳	chen jia	999999
-陈嘉桦	chen jia hua	999999
 晨检	chen jian	999999
 晨间	chen jian	999999
+陈金富	chen jin fu	999999
 陈静	chen jing	999999
 陈军	chen jun	999999
 陈浚铭	chen jun ming	999999
@@ -743,37 +753,33 @@ use_preset_vocabulary: true
 陈梦	chen meng	999999
 陈蒲	chen pu	999999
 陈情令	chen qing ling	999999
-陈秋航	chen qiu hang	999999
 陈瑞	chen rui	999999
 陈若琳	chen ruo lin	999999
 陈胜	chen sheng	999999
 陈思	chen si	999999
 陈思诚	chen si cheng	999999
 陈思罕	chen si han	999999
-陈添祥	chen tian xiang	999999
 陈婷	chen ting	999999
 陈伟霆	chen wei ting	999999
 陈曦	chen xi	999999
 陈先生	chen xian sheng	999999
 陈翔	chen xiang	999999
-陈向平	chen xiang ping	999999
 陈晓	chen xiao	999999
 陈小春	chen xiao chun	999999
 陈小纭	chen xiao yun	999999
-陈信宏	chen xin hong	999999
-陈幸同	chen xing tong	999999
 陈雪	chen xue	999999
-陈妍希	chen yan xi	999999
 陈阳	chen yang	999999
 陈奕恒	chen yi heng	999999
 陈奕迅	chen yi xun	999999
 陈奕迅演唱会	chen yi xun yan chang hui	999999
 晨宇	chen yu	999999
 陈昱	chen yu	999999
+陈芋汐	chen yu xi	999999
+陈妤颉	chen yu xie	999999
 陈哲远	chen zhe yuan	999999
 陈震	chen zhen	999999
 陈志	chen zhi	999999
-陈治权	chen zhi quan	999999
+陈志军	chen zhi jun	999999
 郴州市	chen zhou shi	999999
 陈子奚	chen zi xi	999999
 承办	cheng ban	999999
