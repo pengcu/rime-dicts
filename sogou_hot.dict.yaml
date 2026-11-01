@@ -21,7 +21,6 @@ use_preset_vocabulary: true
 阿贝	a bei	999999
 阿波罗	a bo luo	999999
 阿布扎比	a bu zha bi	999999
-阿丑	a chou	999999
 阿达	a da	999999
 阿达西	a da xi	999999
 阿黛	a dai	999999
@@ -29,7 +28,6 @@ use_preset_vocabulary: true
 阿德巴约	a de ba yue	999999
 阿尔法	a er fa	999999
 阿尔文赫勒斯坦	a er wen he le si tan	999999
-阿芳	a fang	999999
 阿飞	a fei	999999
 阿福	a fu	999999
 阿夫迪亚	a fu di ya	999999
@@ -37,7 +35,7 @@ use_preset_vocabulary: true
 阿根廷	a gen ting	999999
 阿哈	a ha	999999
 阿花	a hua	999999
-阿贾克斯	a jia ke si	999999
+阿基维利	a ji wei li	999999
 阿金	a jin	999999
 阿卡	a ka	999999
 阿卡丽	a ka li	999999
@@ -82,17 +80,20 @@ use_preset_vocabulary: true
 阿雅	a ya	999999
 阿依	a yi	999999
 阿宇	a yu	999999
+阿云嘎	a yun ga	999999
 艾达	ai da	999999
 哀悼	ai dao	999999
 艾尔妲	ai er da	999999
 埃尔法	ai er fa	999999
 爱尔兰	ai er lan	999999
+爱尔眼科	ai er yan ke	999999
 爱发电	ai fa dian	999999
 埃弗顿	ai fu dun	999999
 爱国	ai guo	999999
 爱国者	ai guo zhe	999999
 埃及	ai ji	999999
 爱可菲	ai ke fei	999999
+埃克森美孚	ai ke sen mei fu	999999
 艾拉	ai la	999999
 艾莲	ai lian	999999
 艾琳	ai lin	999999
@@ -102,6 +103,7 @@ use_preset_vocabulary: true
 爱情公寓	ai qing gong yu	999999
 爱芮	ai rui	999999
 埃塞俄比亚	ai sai e bi ya	999999
+埃塞俄比亚空军	ai sai e bi ya kong jun	999999
 埃森科特	ai sen ke te	999999
 爱上雷神	ai shang lei shen	999999
 爱师	ai shi	999999
@@ -110,9 +112,15 @@ use_preset_vocabulary: true
 爱心	ai xin	999999
 艾因	ai yin	999999
 埃因霍温	ai yin huo wen	999999
-爱在无尽夏	ai zai wu jin xia	999999
 安柏	an bai	999999
 岸宝	an bao	999999
 安诚保险	an cheng bao xian	999999
 安德森	an de sen	999999
 暗广	an guang	999999
+安徽	an hui	999999
+安徽宣城茶亭地区	an hui xuan cheng cha ting di qu	999999
+安魂曲	an hun qu	999999
+案件	an jian	999999
+安康	an kang	999999
+安康市发展改革委	an kang shi fa zhan gai ge wei	999999
+案例	an li	999999
