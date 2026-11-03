@@ -21,13 +21,15 @@ use_preset_vocabulary: true
 阿贝	a bei	999999
 阿波罗	a bo luo	999999
 阿布扎比	a bu zha bi	999999
+阿布扎比主权基金	a bu zha bi zhu quan ji jin	999999
 阿达	a da	999999
 阿达西	a da xi	999999
 阿黛	a dai	999999
 阿道夫	a dao fu	999999
 阿德巴约	a de ba yue	999999
+阿尔巴尼亚	a er ba ni ya	999999
 阿尔法	a er fa	999999
-阿尔文赫勒斯坦	a er wen he le si tan	999999
+阿芳	a fang	999999
 阿飞	a fei	999999
 阿福	a fu	999999
 阿夫迪亚	a fu di ya	999999
@@ -36,27 +38,26 @@ use_preset_vocabulary: true
 阿哈	a ha	999999
 阿花	a hua	999999
 阿基维利	a ji wei li	999999
+阿贾克斯	a jia ke si	999999
 阿金	a jin	999999
 阿卡	a ka	999999
 阿卡丽	a ka li	999999
 阿卡伊	a ka yi	999999
+阿拉伯	a la bo	999999
 阿拉善	a la shan	999999
 阿拉斯加	a la si jia	999999
-阿拉维斯	a la wei si	999999
 阿莱夫	a lai fu	999999
 阿劳霍	a lao huo	999999
 阿勒泰	a le tai	999999
 阿狸	a li	999999
 阿里	a li	999999
+阿黎	a li	999999
 阿丽娜	a li na	999999
-阿利乌	a li wu	999999
 阿里云	a li yun	999999
 阿联酋	a lian qiu	999999
 阿廖什基	a liao shen ji	999999
 阿隆索	a long suo	999999
-阿罗拉	a luo la	999999
 阿罗夏	a luo xia	999999
-阿洛伊西	a luo yi xi	999999
 阿玛尼	a ma ni	999999
 阿曼	a man	999999
 阿梅	a mei	999999
@@ -69,12 +70,11 @@ use_preset_vocabulary: true
 阿强	a qiang	999999
 阿萨拉	a sa la	999999
 阿森纳	a sen na	999999
-阿斯顿维拉	a si dun wei la	999999
-阿斯卡纶	a si ka lun	999999
+阿泰	a tai	999999
 阿瓦隆	a wa long	999999
 阿维塔	a wei ta	999999
-阿西夫	a xi fu	999999
 阿信	a xin	999999
+阿鑫	a xin	999999
 阿修罗	a xiu luo	999999
 阿旭	a xu	999999
 阿雅	a ya	999999
@@ -83,28 +83,27 @@ use_preset_vocabulary: true
 阿云嘎	a yun ga	999999
 艾达	ai da	999999
 哀悼	ai dao	999999
-艾尔妲	ai er da	999999
 埃尔法	ai er fa	999999
 爱尔兰	ai er lan	999999
-爱尔眼科	ai er yan ke	999999
+爱尔眼科公司	ai er yan ke gong si	999999
 爱发电	ai fa dian	999999
 埃弗顿	ai fu dun	999999
 爱国	ai guo	999999
 爱国者	ai guo zhe	999999
 埃及	ai ji	999999
+埃及大埃及博物馆	ai ji da ai ji bo wu guan	999999
 爱可菲	ai ke fei	999999
-埃克森美孚	ai ke sen mei fu	999999
 艾拉	ai la	999999
 艾莲	ai lian	999999
 艾琳	ai lin	999999
 爱马仕	ai ma shi	999999
 艾米	ai mi	999999
+埃奇库姆	ai qi ku mu	999999
 爱奇艺	ai qi yi	999999
 爱情公寓	ai qing gong yu	999999
-爱芮	ai rui	999999
-埃塞俄比亚	ai sai e bi ya	999999
-埃塞俄比亚空军	ai sai e bi ya kong jun	999999
+爱如潮水	ai ru chao shui	999999
 埃森科特	ai sen ke te	999999
+艾莎	ai sha	999999
 爱上雷神	ai shang lei shen	999999
 爱师	ai shi	999999
 埃斯顿	ai si dun	999999
@@ -113,14 +112,112 @@ use_preset_vocabulary: true
 艾因	ai yin	999999
 埃因霍温	ai yin huo wen	999999
 安柏	an bai	999999
+案板	an ban	999999
 岸宝	an bao	999999
-安诚保险	an cheng bao xian	999999
+氨氮	an dan	999999
 安德森	an de sen	999999
+安东内利	an dong nei li	999999
 暗广	an guang	999999
 安徽	an hui	999999
-安徽宣城茶亭地区	an hui xuan cheng cha ting di qu	999999
+安徽茶亭铜金矿	an hui cha ting tong jin kuang	999999
+安徽建筑大学	an hui jian zhu da xue	999999
+安徽铜金矿	an hui tong jin kuang	999999
 安魂曲	an hun qu	999999
 案件	an jian	999999
 安康	an kang	999999
-安康市发展改革委	an kang shi fa zhan gai ge wei	999999
 案例	an li	999999
+安妮	an ni	999999
+安琪拉	an qi la	999999
+安乾镐	an qian gao	999999
+安庆	an qing	999999
+安全完赛	an quan wan sai	999999
+安沙镇	an sha zhen	999999
+鞍山	an shan	999999
+安踏	an ta	999999
+安溪	an xi	999999
+暗星	an xing	999999
+安阳	an yang	999999
+暗影蜘蛛侠	an ying zhi zhu xia	999999
+安宇	an yu	999999
+安岳	an yue	999999
+昂跑	ang pao	999999
+奥巴马	ao ba ma	999999
+澳超	ao chao	999999
+澳大利亚	ao da li ya	999999
+澳大利亚展厅	ao da li ya zhan ting	999999
+奥德赛	ao de sai	999999
+奥迪	ao di	999999
+奥地利	ao di li	999999
+奥丁	ao ding	999999
+奥多姆	ao duo mu	999999
+奥恩	ao en	999999
+奥尔加	ao er jia	999999
+澳弘	ao hong	999999
+奥康	ao kang	999999
+奥拉夫	ao la fu	999999
+奥利	ao li	999999
+奥利塞	ao li sai	999999
+奥利赛	ao li sai	999999
+奥林匹克	ao lin pi ke	999999
+奥林匹克宪章	ao lin pi ke xian zhang	999999
+澳门	ao men	999999
+澳门车展	ao men che zhan	999999
+澳门司警	ao men si jing	999999
+澳门站	ao men zhan	999999
+奥恰	ao qia	999999
+敖瑞鹏	ao rui peng	999999
+奥斯卡	ao si ka	999999
+奥体	ao ti	999999
+澳洋	ao yang	999999
+澳洋健康	ao yang jian kang	999999
+奥义	ao yi	999999
+奥义图	ao yi tu	999999
+敖尹	ao yin	999999
+巴旦木	ba dan mu	999999
+巴德	ba de	999999
+巴蒂	ba di	999999
+八段锦	ba duan jin	999999
+巴恩斯	ba en si	999999
+巴尔克拉	ba er ke la	999999
+巴菲	ba fei	999999
+把黑夜点燃	ba hei ye dian ran	999999
+巴基斯坦	ba ji si tan	999999
+巴甲	ba jia	999999
+巴克什	ba ke shen	999999
+巴克十	ba ke shi	999999
+巴莱巴	ba lai ba	999999
+巴黎	ba li	999999
+巴黎警方	ba li jing fang	999999
+巴黎世家	ba li shi jia	999999
+巴马	ba ma	999999
+巴拿马	ba na ma	999999
+巴拿马使馆	ba na ma shi guan	999999
+巴南区	ba nan qu	999999
+巴佩	ba pei	999999
+八强	ba qiang	999999
+八强了	ba qiang le	999999
+巴萨	ba sa	999999
+巴塞罗那	ba sai luo na	999999
+芭莎	ba sha	999999
+巴蜀	ba shu	999999
+拔丝	ba si	999999
+芭提雅	ba ti ya	999999
+霸王	ba wang	999999
+霸王别姬	ba wang bie ji	999999
+霸王茶姬	ba wang cha ji	999999
+霸王色	ba wang se	999999
+巴西	ba xi	999999
+巴西兰海峡	ba xi lan hai xia	999999
+巴西总统大选	ba xi zong tong da xuan	999999
+八仙	ba xian	999999
+霸业	ba ye	999999
+八一飞行表演队	ba yi fei xing biao yan dui	999999
+八音	ba yin	999999
+八音窍	ba yin qiao	999999
+鲅鱼	ba yu	999999
+白百何	bai bai he	999999
+败采	bai cai	999999
+白车	bai che	999999
+白城	bai cheng	999999
+拜城县	bai cheng xian	999999
+百度	bai du	999999
