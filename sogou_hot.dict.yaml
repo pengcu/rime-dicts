@@ -22,6 +22,7 @@ use_preset_vocabulary: true
 阿贝	a bei	999999
 阿波罗	a bo luo	999999
 阿布	a bu	999999
+阿卜杜拉国王金融区	a bu du la guo wang jin rong qu	999999
 阿布扎比	a bu zha bi	999999
 阿达	a da	999999
 阿达西	a da xi	999999
@@ -32,25 +33,25 @@ use_preset_vocabulary: true
 阿福	a fu	999999
 阿富汗	a fu han	999999
 阿戈尔	a ge er	999999
+阿格莱亚	a ge lai ya	999999
+阿格莱雅	a ge lai ya	999999
 阿根廷	a gen ting	999999
 阿哈	a ha	999999
 阿花	a hua	999999
+阿基维利	a ji wei li	999999
 阿贾克斯	a jia ke si	999999
 阿姐	a jie	999999
 阿金	a jin	999999
 阿卡	a ka	999999
 阿卡丽	a ka li	999999
+阿克拉米尼亚	a ke la mi ni ya	999999
 阿拉伯	a la bo	999999
 阿拉格齐	a la ge qi	999999
 阿拉善	a la shan	999999
 阿拉斯加	a la si jia	999999
-阿莱	a lai	999999
 阿勒泰	a le tai	999999
-阿雷拉诺	a lei la nuo	999999
 阿狸	a li	999999
 阿里	a li	999999
-阿丽娜	a li na	999999
-阿里拍卖	a li pai mai	999999
 阿里云	a li yun	999999
 阿里资产平台	a li zi chan ping tai	999999
 阿联酋	a lian qiu	999999
@@ -66,7 +67,6 @@ use_preset_vocabulary: true
 阿强	a qiang	999999
 阿萨拉	a sa la	999999
 阿森纳	a sen na	999999
-阿斯旺	a si wang	999999
 阿特拉斯	a te la si	999999
 阿婷	a ting	999999
 阿瓦隆	a wa long	999999
@@ -74,25 +74,24 @@ use_preset_vocabulary: true
 阿信	a xin	999999
 阿修罗	a xiu luo	999999
 阿雅	a ya	999999
-阿颜	a yan	999999
 阿耶莎	a ye sha	999999
 阿宇	a yu	999999
 阿雨	a yu	999999
 艾达	ai da	999999
 哀悼	ai dao	999999
+爱的修学旅行	ai de xiu xue lv xing	999999
 爱尔兰	ai er lan	999999
 埃弗顿	ai fu dun	999999
 爱国	ai guo	999999
 爱国者	ai guo zhe	999999
 爱华	ai hua	999999
 埃及	ai ji	999999
-埃及总统塞西	ai ji zong tong sai xi	999999
 爱可菲	ai ke fei	999999
-艾拉	ai la	999999
 艾莉	ai li	999999
+爱莉希雅	ai li xi ya	999999
+艾莲	ai lian	999999
 艾琳	ai lin	999999
 爱马仕	ai ma shi	999999
-埃梅里	ai mei li	999999
 艾米	ai mi	999999
 爱奇艺	ai qi yi	999999
 爱情公寓	ai qing gong yu	999999
@@ -103,9 +102,7 @@ use_preset_vocabulary: true
 爱笑	ai xiao	999999
 爱心	ai xin	999999
 埃因霍温	ai yin huo wen	999999
-爱知	ai zhi	999999
 安德森	an de sen	999999
-安东内利	an dong nei li	999999
 暗广	an guang	999999
 安徽	an hui	999999
 安徽江淮汽车集团	an hui jiang huai qi che ji tuan	999999
@@ -131,7 +128,9 @@ use_preset_vocabulary: true
 安岳	an yue	999999
 安卓妹	an zhuo mei	999999
 奥巴马	ao ba ma	999999
+鳌拜	ao bai	999999
 澳超	ao chao	999999
+奥创	ao chuang	999999
 澳大利亚	ao da li ya	999999
 奥黛塔	ao dai ta	999999
 奥德赛	ao de sai	999999
