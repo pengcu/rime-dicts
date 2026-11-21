@@ -33,9 +33,9 @@ use_preset_vocabulary: true
 阿福	a fu	999999
 阿富汗	a fu han	999999
 阿戈尔	a ge er	999999
-阿格莱亚	a ge lai ya	999999
 阿格莱雅	a ge lai ya	999999
 阿根廷	a gen ting	999999
+阿圭罗	a gui luo	999999
 阿哈	a ha	999999
 阿花	a hua	999999
 阿基维利	a ji wei li	999999
@@ -43,16 +43,17 @@ use_preset_vocabulary: true
 阿金	a jin	999999
 阿卡	a ka	999999
 阿卡丽	a ka li	999999
-阿克拉米尼亚	a ke la mi ni ya	999999
 阿克苏	a ke su	999999
 阿拉伯	a la bo	999999
-阿拉格齐	a la ge qi	999999
 阿拉善	a la shan	999999
+阿拉善盟人社局	a la shan meng ren she ju	999999
 阿拉斯加	a la si jia	999999
 阿勒泰	a le tai	999999
 阿狸	a li	999999
 阿里	a li	999999
+阿里电商	a li dian shang	999999
 阿里云	a li yun	999999
+阿里资产	a li zi chan	999999
 阿联酋	a lian qiu	999999
 阿罗拉	a luo la	999999
 阿罗夏	a luo xia	999999
@@ -62,9 +63,7 @@ use_preset_vocabulary: true
 阿梅	a mei	999999
 阿嬷	a mo	999999
 阿穆尔州	a mu er zhou	999999
-阿姆斯特丹	a mu si te dan	999999
 阿娜	a na	999999
-阿南德	a nan de	999999
 阿努比斯	a nu bi si	999999
 阿帕次	a pa ci	999999
 阿强	a qiang	999999
@@ -79,13 +78,14 @@ use_preset_vocabulary: true
 阿修罗	a xiu luo	999999
 阿雅	a ya	999999
 阿宇	a yu	999999
+阿扎尔	a zha er	999999
+阿志	a zhi	999999
 埃博拉	ai bo la	999999
 艾达	ai da	999999
 哀悼	ai dao	999999
 爱尔兰	ai er lan	999999
 爱国	ai guo	999999
 爱国者	ai guo zhe	999999
-艾哈迈德布加马尔	ai ha mai de bu jia ma er	999999
 爱华	ai hua	999999
 埃及	ai ji	999999
 爱家	ai jia	999999
@@ -98,16 +98,17 @@ use_preset_vocabulary: true
 爱马仕	ai ma shi	999999
 艾米	ai mi	999999
 艾欧尼亚	ai ou ni ya	999999
-爱泼斯坦案	ai po si tan an	999999
 爱奇艺	ai qi yi	999999
 爱情公寓	ai qing gong yu	999999
-埃森科特	ai sen ke te	999999
+爱情神话	ai qing shen hua	999999
+艾曲波帕片	ai qu bo pa pian	999999
 艾莎	ai sha	999999
 爱沙尼亚	ai sha ni ya	999999
 爱师	ai shi	999999
 艾斯卡诺	ai si ka nuo	999999
 艾薇儿	ai wei er	999999
 爱笑	ai xiao	999999
+爱笑的天使	ai xiao de tian shi	999999
 爱心	ai xin	999999
 爱音	ai yin	999999
 艾因	ai yin	999999
@@ -116,16 +117,18 @@ use_preset_vocabulary: true
 安东尼	an dong ni	999999
 暗广	an guang	999999
 安徽	an hui	999999
-安徽霍邱县	an hui huo qiu xian	999999
-安徽芜湖警方	an hui wu hu jing fang	999999
+安徽霍邱	an hui huo qiu	999999
 安魂曲	an hun qu	999999
 安吉	an ji	999999
 案件	an jian	999999
 安姐	an jie	999999
 暗金	an jin	999999
+安静公主	an jing gong zhu	999999
 安康	an kang	999999
 案例	an li	999999
+安娜	an na	999999
 安妮	an ni	999999
+安妮海瑟薇	an ni hai se wei	999999
 安溥	an pu	999999
 安期	an qi	999999
 暗器	an qi	999999
@@ -144,6 +147,7 @@ use_preset_vocabulary: true
 安岳	an yue	999999
 奥巴马	ao ba ma	999999
 鳌拜	ao bai	999999
+澳超	ao chao	999999
 奥创	ao chuang	999999
 澳大利亚	ao da li ya	999999
 奥黛塔	ao dai ta	999999
@@ -152,7 +156,8 @@ use_preset_vocabulary: true
 奥地利	ao di li	999999
 奥丁	ao ding	999999
 奥恩	ao en	999999
-澳加	ao jia	999999
+澳弘	ao hong	999999
+澳假	ao jia	999999
 奥康	ao kang	999999
 奥克兰	ao ke lan	999999
 奥拉夫	ao la fu	999999
@@ -160,9 +165,7 @@ use_preset_vocabulary: true
 奥利	ao li	999999
 奥林匹克	ao lin pi ke	999999
 澳门	ao men	999999
-澳门银河综艺馆	ao men yin he zong yi guan	999999
 奥奇传说	ao qi chuan shuo	999999
-奥瑞德	ao rui de	999999
 敖瑞鹏	ao rui peng	999999
 凹三	ao san	999999
 奥术	ao shu	999999
@@ -178,18 +181,18 @@ use_preset_vocabulary: true
 鏖战	ao zhan	999999
 袄子	ao zi	999999
 把把	ba ba	999999
-八百万勇士	ba bai wan yong shi	999999
-八达岭长城	ba da ling chang cheng	999999
 巴旦木	ba dan mu	999999
 巴德	ba de	999999
 巴蒂	ba di	999999
 八段锦	ba duan jin	999999
+巴尔德	ba er de	999999
 巴菲	ba fei	999999
 巴菲特	ba fei te	999999
 八关	ba guan	999999
 把黑夜点燃	ba hei ye dian ran	999999
 八花	ba hua	999999
 巴基斯坦	ba ji si tan	999999
+巴基斯坦陆军	ba ji si tan lu jun	999999
 巴甲	ba jia	999999
 巴克什	ba ke shen	999999
 巴克十	ba ke shi	999999
@@ -198,12 +201,7 @@ use_preset_vocabulary: true
 巴黎	ba li	999999
 巴黎世家	ba li shi jia	999999
 巴林	ba lin	999999
-巴林队	ba lin dui	999999
-巴林国防军	ba lin guo fang jun	999999
-巴林男足	ba lin nan zu	999999
-巴林足球	ba lin zu qiu	999999
-巴林足球友谊赛	ba lin zu qiu you yi sai	999999
-巴伦	ba lun	999999
+巴罗	ba luo	999999
 巴马	ba ma	999999
 八马茶业	ba ma cha ye	999999
 拔毛	ba mao	999999
@@ -218,7 +216,6 @@ use_preset_vocabulary: true
 霸王茶姬	ba wang cha ji	999999
 巴西	ba xi	999999
 八仙	ba xian	999999
-巴新	ba xin	999999
 霸业	ba ye	999999
 八音	ba yin	999999
 八音窍	ba yin qiao	999999
@@ -229,381 +226,3 @@ use_preset_vocabulary: true
 白城	bai cheng	999999
 白吃	bai chi	999999
 百度	bai du	999999
-白鹅潭	bai e tan	999999
-白非空	bai fei kong	999999
-白宫	bai gong	999999
-白宫战情室	bai gong zhan qing shi	999999
-拜合拉木	bai he la mu	999999
-白花	bai hua	999999
-百花	bai hua	999999
-百花杀	bai hua sha	999999
-白敬亭	bai jing ting	999999
-白磊	bai lei	999999
-百里守约	bai li shou yue	999999
-白露	bai lu	999999
-白鹿	bai lu	999999
-百沐娱乐	bai mu yu le	999999
-白拿	bai na	999999
-拜仁	bai ren	999999
-百日谎言	bai ri huang yan	999999
-白沙	bai sha	999999
-白鲨	bai sha	999999
-白山	bai shan	999999
-百盛	bai sheng	999999
-百事	bai shi	999999
-百事可乐	bai shi ke le	999999
-百世书	bai shi shu	999999
-柏太阳神	bai tai yang shen	999999
-白条	bai tiao	999999
-百万撤离	bai wan che li	999999
-百万医	bai wan yi	999999
-白小白	bai xiao bai	999999
-白小纯	bai xiao chun	999999
-白血病	bai xue bing	999999
-白雪公主	bai xue gong zhu	999999
-百业战	bai ye zhan	999999
-白银	bai yin	999999
-白宇	bai yu	999999
-白玉兰	bai yu lan	999999
-柏源	bai yuan	999999
-白云区	bai yun qu	999999
-白泽	bai ze	999999
-百战	bai zhan	999999
-百战成诗	bai zhan cheng shi	999999
-败者	bai zhe	999999
-败者组	bai zhe zu	999999
-白昼	bai zhou	999999
-办案	ban an	999999
-班巴	ban ba	999999
-版本答案	ban ben da an	999999
-半场	ban chang	999999
-半场开香槟	ban chang kai xiang bin	999999
-半导体	ban dao ti	999999
-办公	ban gong	999999
-办公室	ban gong shi	999999
-班会	ban hui	999999
-班会课	ban hui ke	999999
-班级	ban ji	999999
-颁奖	ban jiang	999999
-半决	ban jue	999999
-半决赛	ban jue sai	999999
-板块	ban kuai	999999
-板蓝根	ban lan gen	999999
-办理	ban li	999999
-半马	ban ma	999999
-半亩花田	ban mu hua tian	999999
-扳平	ban ping	999999
-半期	ban qi	999999
-半区	ban qu	999999
-版权	ban quan	999999
-半全场	ban quan chang	999999
-版权方	ban quan fang	999999
-半设	ban she	999999
-半生	ban sheng	999999
-半熟	ban shu	999999
-板书	ban shu	999999
-版图	ban tu	999999
-伴舞	ban wu	999999
-半血	ban xue	999999
-板鸭	ban ya	999999
-扮演者	ban yan zhe	999999
-班子	ban zi	999999
-邦布	bang bu	999999
-绑关系	bang guan xi	999999
-帮会联赛	bang hui lian sai	999999
-棒球棒	bang qiu bang	999999
-棒球棍	bang qiu gun	999999
-榜首	bang shou	999999
-报案	bao an	999999
-爆爆爆	bao bao bao	999999
-宝贝们	bao bei men	999999
-报表	bao biao	999999
-宝船	bao chuan	999999
-保单	bao dan	999999
-爆单	bao dan	999999
-爆弹	bao dan	999999
-爆蛋	bao dan	999999
-包的包的	bao de bao de	999999
-暴跌	bao die	999999
-保定	bao ding	999999
-爆发夜	bao fa ye	999999
-爆缸	bao gang	999999
-宝格丽	bao ge li	999999
-宝鸡	bao ji	999999
-保加利亚	bao jia li ya	999999
-爆金币	bao jin bi	999999
-报考	bao kao	999999
-宝可梦	bao ke meng	999999
-爆拉	bao la	999999
-宝蓝	bao lan	999999
-爆冷	bao leng	999999
-宝莲灯	bao lian deng	999999
-爆料	bao liao	999999
-保留节目	bao liu jie mu	999999
-保罗乔治	bao luo qiao zhi	999999
-宝马	bao ma	999999
-报名表	bao ming biao	999999
-报名费	bao ming fei	999999
-宝能	bao neng	999999
-保暖	bao nuan	999999
-豹女	bao nv	999999
-爆破	bao po	999999
-保人	bao ren	999999
-鲍师傅	bao shi fu	999999
-保时捷	bao shi jie	999999
-保湿霜	bao shi shuang	999999
-报税	bao shui	999999
-保送	bao song	999999
-包头	bao tou	999999
-暴徒	bao tu	999999
-鲍威尔	bao wei er	999999
-保卫战	bao wei zhan	999999
-报喜鸟	bao xi niao	999999
-保险	bao xian	999999
-爆线	bao xian	999999
-保险公司	bao xian gong si	999999
-保险箱	bao xian xiang	999999
-暴雪	bao xue	999999
-保研	bao yan	999999
-宝应	bao ying	999999
-暴雨	bao yu	999999
-宝藏房	bao zang fang	999999
-爆炸弹	bao zha dan	999999
-爆种	bao zhong	999999
-宝珠	bao zhu	999999
-宝子们	bao zi men	999999
-备案	bei an	999999
-贝贝南瓜	bei bei nan gua	999999
-卑鄙	bei bi	999999
-北部湾	bei bu wan	999999
-焙茶	bei cha	999999
-北川	bei chuan	999999
-北大	bei da	999999
-北大文创	bei da wen chuang	999999
-北大文创服	bei da wen chuang fu	999999
-被盗	bei dao	999999
-北斗	bei dou	999999
-北斗定位终端	bei dou ding wei zhong duan	999999
-被对位	bei dui wei	999999
-倍儿	bei er	999999
-贝儿	bei er	999999
-被翻	bei fan	999999
-北风	bei feng	999999
-被告	bei gao	999999
-北海	bei hai	999999
-北海道	bei hai dao	999999
-北航	bei hang	999999
-被监视居住人	bei jian shi ju zhu ren	999999
-北京	bei jing	999999
-北京人	bei jing ren	999999
-北京市	bei jing shi	999999
-北京时间	bei jing shi jian	999999
-贝壳存量房	bei ke cun liang fang	999999
-贝林	bei lin	999999
-被零封	bei ling feng	999999
-倍率丹	bei lv dan	999999
-北美	bei mei	999999
-北面	bei mian	999999
-北宁	bei ning	999999
-倍诺达	bei nuo da	999999
-北欧	bei ou	999999
-背屏	bei ping	999999
-北汽	bei qi	999999
-贝森特	bei sen te	999999
-北上	bei shang	999999
-背身	bei shen	999999
-背饰	bei shi	999999
-北师大	bei shi da	999999
-贝斯特	bei si te	999999
-北宋	bei song	999999
-杯套	bei tao	999999
-北体	bei ti	999999
-杯贴	bei tie	999999
-背头	bei tou	999999
-北外	bei wai	999999
-北纬	bei wei	999999
-北约	bei yue	999999
-杯子	bei zi	999999
-奔驰	ben chi	999999
-本科线	ben ke xian	999999
-奔跑吧	ben pao ba	999999
-奔跑吧大湾区篇	ben pao ba da wan qu pian	999999
-奔跑吧第九季	ben pao ba di jiu ji	999999
-奔跑吧节目组	ben pao ba jie mu zu	999999
-奔腾	ben teng	999999
-本溪	ben xi	999999
-本源	ben yuan	999999
-本质	ben zhi	999999
-笨重	ben zhong	999999
-本周	ben zhou	999999
-本周五	ben zhou wu	999999
-崩坏	beng huai	999999
-崩坏星穹铁道	beng huai xing qiong tie dao	999999
-崩铁	beng tie	999999
-币安	bi an	999999
-必抽	bi chou	999999
-庇护所	bi hu suo	999999
-庇护者	bi hu zhe	999999
-壁画	bi hua	999999
-笔尖	bi jian	999999
-毕节	bi jie	999999
-哔哩哔哩	bi li bi li	999999
-比利时	bi li shi	999999
-秘鲁	bi lu	999999
-碧螺春	bi luo chun	999999
-闭幕式	bi mu shi	999999
-避难所	bi nan suo	999999
-比萨	bi sa	999999
-比赛	bi sai	999999
-必胜	bi sheng	999999
-笔试	bi shi	999999
-碧水	bi shui	999999
-比特币	bi te bi	999999
-避险	bi xian	999999
-必选	bi xuan	999999
-比亚迪	bi ya di	999999
-毕业快乐	bi ye kuai le	999999
-毕宇航	bi yu hang	999999
-碧云寺	bi yun si	999999
-币战	bi zhan	999999
-边伯贤	bian bo xian	999999
-边锋	bian feng	999999
-蝙蝠	bian fu	999999
-蝙蝠侠	bian fu xia	999999
-蝙蝠侠罗宾组合	bian fu xia luo bin zu he	999999
-变更	bian geng	999999
-扁平足	bian ping zu	999999
-扁鹊	bian que	999999
-变天	bian tian	999999
-边线	bian xian	999999
-边线球	bian xian qiu	999999
-变形计	bian xing ji	999999
-编译	bian yi	999999
-边狱巴士	bian yu ba shi	999999
-变阵	bian zhen	999999
-变种	bian zhong	999999
-变奏	bian zou	999999
-标杆	biao gan	999999
-彪哥	biao ge	999999
-彪马	biao ma	999999
-标普	biao pu	999999
-标书	biao shu	999999
-表态	biao tai	999999
-表演赛	biao yan sai	999999
-标准版	biao zhun ban	999999
-别急	bie ji	999999
-别克	bie ke	999999
-别奶	bie nai	999999
-斌大哥	bin da ge	999999
-彬哥	bin ge	999999
-斌哥	bin ge	999999
-宾利	bin li	999999
-殡仪馆	bin yi guan	999999
-滨州	bin zhou	999999
-冰雹	bing bao	999999
-冰尘	bing chen	999999
-饼大	bing da	999999
-饼大哥	bing da ge	999999
-冰岛	bing dao	999999
-冰点	bing dian	999999
-冰雕	bing diao	999999
-冰墩墩	bing dun dun	999999
-冰粉	bing fen	999999
-冰封列车	bing feng lie che	999999
-饼哥	bing ge	999999
-冰柜	bing gui	999999
-病患	bing huan	999999
-冰甲	bing jia	999999
-病假	bing jia	999999
-槟榔	bing lang	999999
-病例	bing li	999999
-病历	bing li	999999
-病理	bing li	999999
-兵马俑	bing ma yong	999999
-冰鸟	bing niao	999999
-冰女	bing nv	999999
-冰神	bing shen	999999
-冰霜	bing shuang	999999
-冰糖葫芦	bing tang hu lu	999999
-冰箱贴	bing xiang tie	999999
-冰雪大世界	bing xue da shi jie	999999
-冰雪奇缘	bing xue qi yuan	999999
-冰主	bing zhu	999999
-波比	bo bi	999999
-波波	bo bo	999999
-剥夺	bo duo	999999
-铂尔曼	bo er man	999999
-博尔特	bo er te	999999
-伯哥	bo ge	999999
-渤海	bo hai	999999
-薄荷健康	bo he jian kang	999999
-薄肌	bo ji	999999
-波杰姆斯基	bo jie mu si ji	999999
-铂金	bo jin	999999
-伯爵	bo jue	999999
-博君一肖	bo jun yi xiao	999999
-伯克希尔大调仓	bo ke xi er da tiao cang	999999
-波兰	bo lan	999999
-柏林	bo lin	999999
-玻尿酸	bo niao suan	999999
-波奇	bo qi	999999
-波切蒂诺	bo qie di nuo	999999
-般若	bo re	999999
-博人	bo ren	999999
-波司登	bo si deng	999999
-波斯湾	bo si wan	999999
-波特	bo te	999999
-博通	bo tong	999999
-伯牙	bo ya	999999
-伯牙绝弦	bo ya jue xian	999999
-伯牙绝铉	bo ya jue xuan	999999
-波音	bo yin	999999
-博越	bo yue	999999
-亳州	bo zhou	999999
-波子	bo zi	999999
-补兵	bu bing	999999
-补测	bu ce	999999
-布袋	bu dai	999999
-补刀	bu dao	999999
-不动产	bu dong chan	999999
-不凡	bu fan	999999
-捕风追影	bu feng zhui ying	999999
-捕风捉影	bu feng zhuo ying	999999
-不规范	bu gui fan	999999
-不合时宜	bu he shi yi	999999
-捕获	bu huo	999999
-部件	bu jian	999999
-补缴	bu jiao	999999
-布克	bu ke	999999
-不快乐	bu kuai le	999999
-布兰登卢特尼克	bu lan deng lu te ni ke	999999
-布朗	bu lang	999999
-布朗尼	bu lang ni	999999
-布雷	bu lei	999999
-布灵	bu ling	999999
-布隆	bu long	999999
-布鲁克林	bu lu ke lin	999999
-部落	bu luo	999999
-布洛芬	bu luo fen	999999
-部门	bu men	999999
-不眠夜	bu mian ye	999999
-不眠之夜	bu mian zhi ye	999999
-不妙	bu miao	999999
-不怕不怕	bu pa bu pa	999999
-不屈	bu qu	999999
-哺乳动物	bu ru dong wu	999999
-不烧心	bu shao xin	999999
-补时	bu shi	999999
-布什号航母	bu shi hao hang mu	999999
-不食嗟来之食	bu shi jie lai zhi shi	999999
-部署	bu shu	999999
-补水	bu shui	999999
-补水啦	bu shui la	999999
-不死途	bu si tu	999999
-不同步	bu tong bu	999999
-不想上学	bu xiang shang xue	999999
-不想睡的星期五	bu xiang shui de xing qi wu	999999
-步行者	bu xing zhe	999999
-不朽	bu xiu	999999
-不栩此行纪录片	bu xu ci xing ji lu pian	999999
-不栩此行系列	bu xu ci xing xi lie	999999
