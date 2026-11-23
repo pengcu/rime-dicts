@@ -21,12 +21,12 @@ use_preset_vocabulary: true
 阿斌	a bin	999999
 阿波罗	a bo luo	999999
 阿布	a bu	999999
-阿布扎比	a bu zha bi	999999
 阿达	a da	999999
 阿达西	a da xi	999999
+阿达希尔	a da xi er	999999
 阿道夫	a dao fu	999999
 阿豆	a dou	999999
-阿尔巴尼亚	a er ba ni ya	999999
+阿尔巴尼斯	a er ba ni si	999999
 阿尔法	a er fa	999999
 阿芳	a fang	999999
 阿飞	a fei	999999
@@ -35,7 +35,6 @@ use_preset_vocabulary: true
 阿戈尔	a ge er	999999
 阿格莱雅	a ge lai ya	999999
 阿根廷	a gen ting	999999
-阿圭罗	a gui luo	999999
 阿哈	a ha	999999
 阿花	a hua	999999
 阿基维利	a ji wei li	999999
@@ -46,15 +45,14 @@ use_preset_vocabulary: true
 阿克苏	a ke su	999999
 阿拉伯	a la bo	999999
 阿拉善	a la shan	999999
-阿拉善盟人社局	a la shan meng ren she ju	999999
 阿拉斯加	a la si jia	999999
 阿勒泰	a le tai	999999
 阿狸	a li	999999
 阿里	a li	999999
-阿里电商	a li dian shang	999999
+阿里电商集团	a li dian shang ji tuan	999999
 阿里云	a li yun	999999
-阿里资产	a li zi chan	999999
 阿联酋	a lian qiu	999999
+阿隆索	a long suo	999999
 阿罗拉	a luo la	999999
 阿罗夏	a luo xia	999999
 阿玛尼	a ma ni	999999
@@ -65,6 +63,7 @@ use_preset_vocabulary: true
 阿穆尔州	a mu er zhou	999999
 阿娜	a na	999999
 阿努比斯	a nu bi si	999999
+阿努廷	a nu ting	999999
 阿帕次	a pa ci	999999
 阿强	a qiang	999999
 阿萨拉	a sa la	999999
@@ -95,134 +94,19 @@ use_preset_vocabulary: true
 爱莉希雅	ai li xi ya	999999
 艾莲	ai lian	999999
 艾琳	ai lin	999999
+埃马纽埃尔埃梅加	ai ma niu ai er ai mei jia	999999
 爱马仕	ai ma shi	999999
 艾米	ai mi	999999
+爱弥斯	ai mi si	999999
 艾欧尼亚	ai ou ni ya	999999
 爱奇艺	ai qi yi	999999
 爱情公寓	ai qing gong yu	999999
-爱情神话	ai qing shen hua	999999
-艾曲波帕片	ai qu bo pa pian	999999
+艾曲泊帕乙醇胺片	ai qu bo pa yi chun an pian	999999
 艾莎	ai sha	999999
 爱沙尼亚	ai sha ni ya	999999
 爱师	ai shi	999999
 艾斯卡诺	ai si ka nuo	999999
+埃斯皮西甲	ai si pi xi jia	999999
 艾薇儿	ai wei er	999999
 爱笑	ai xiao	999999
 爱笑的天使	ai xiao de tian shi	999999
-爱心	ai xin	999999
-爱音	ai yin	999999
-艾因	ai yin	999999
-暗沉	an chen	999999
-安德森	an de sen	999999
-安东尼	an dong ni	999999
-暗广	an guang	999999
-安徽	an hui	999999
-安徽霍邱	an hui huo qiu	999999
-安魂曲	an hun qu	999999
-安吉	an ji	999999
-案件	an jian	999999
-安姐	an jie	999999
-暗金	an jin	999999
-安静公主	an jing gong zhu	999999
-安康	an kang	999999
-案例	an li	999999
-安娜	an na	999999
-安妮	an ni	999999
-安妮海瑟薇	an ni hai se wei	999999
-安溥	an pu	999999
-安期	an qi	999999
-暗器	an qi	999999
-安琪拉	an qi la	999999
-安乾镐	an qian gao	999999
-安切洛蒂	an qie luo di	999999
-安庆	an qing	999999
-暗区突围	an qu tu wei	999999
-安全箱	an quan xiang	999999
-鞍山	an shan	999999
-安踏	an ta	999999
-安溪	an xi	999999
-暗星	an xing	999999
-安阳	an yang	999999
-安宇	an yu	999999
-安岳	an yue	999999
-奥巴马	ao ba ma	999999
-鳌拜	ao bai	999999
-澳超	ao chao	999999
-奥创	ao chuang	999999
-澳大利亚	ao da li ya	999999
-奥黛塔	ao dai ta	999999
-奥德赛	ao de sai	999999
-奥迪	ao di	999999
-奥地利	ao di li	999999
-奥丁	ao ding	999999
-奥恩	ao en	999999
-澳弘	ao hong	999999
-澳假	ao jia	999999
-奥康	ao kang	999999
-奥克兰	ao ke lan	999999
-奥拉夫	ao la fu	999999
-熬老头	ao lao tou	999999
-奥利	ao li	999999
-奥林匹克	ao lin pi ke	999999
-澳门	ao men	999999
-奥奇传说	ao qi chuan shuo	999999
-敖瑞鹏	ao rui peng	999999
-凹三	ao san	999999
-奥术	ao shu	999999
-奥斯卡	ao si ka	999999
-奥特曼	ao te man	999999
-奥体	ao ti	999999
-奥提斯	ao ti si	999999
-凹凸世界	ao tu shi jie	999999
-奥拓	ao tuo	999999
-翱翔	ao xiang	999999
-奥义	ao yi	999999
-敖隐	ao yin	999999
-鏖战	ao zhan	999999
-袄子	ao zi	999999
-把把	ba ba	999999
-巴旦木	ba dan mu	999999
-巴德	ba de	999999
-巴蒂	ba di	999999
-八段锦	ba duan jin	999999
-巴尔德	ba er de	999999
-巴菲	ba fei	999999
-巴菲特	ba fei te	999999
-八关	ba guan	999999
-把黑夜点燃	ba hei ye dian ran	999999
-八花	ba hua	999999
-巴基斯坦	ba ji si tan	999999
-巴基斯坦陆军	ba ji si tan lu jun	999999
-巴甲	ba jia	999999
-巴克什	ba ke shen	999999
-巴克十	ba ke shi	999999
-巴拉圭	ba la gui	999999
-巴勒斯坦	ba le si tan	999999
-巴黎	ba li	999999
-巴黎世家	ba li shi jia	999999
-巴林	ba lin	999999
-巴罗	ba luo	999999
-巴马	ba ma	999999
-八马茶业	ba ma cha ye	999999
-拔毛	ba mao	999999
-罢免	ba mian	999999
-巴拿马	ba na ma	999999
-八强	ba qiang	999999
-巴萨	ba sa	999999
-巴蜀	ba shu	999999
-芭提雅	ba ti ya	999999
-霸王	ba wang	999999
-霸王别姬	ba wang bie ji	999999
-霸王茶姬	ba wang cha ji	999999
-巴西	ba xi	999999
-八仙	ba xian	999999
-霸业	ba ye	999999
-八音	ba yin	999999
-八音窍	ba yin qiao	999999
-鲅鱼	ba yu	999999
-白熬	bai ao	999999
-败笔	bai bi	999999
-白车	bai che	999999
-白城	bai cheng	999999
-白吃	bai chi	999999
-百度	bai du	999999
